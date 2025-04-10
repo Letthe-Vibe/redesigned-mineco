@@ -85,3 +85,47 @@
 [01:40:11] [Server thread/INFO]: [Not Secure] [Server] siuuuuu
 [01:54:58] [Server thread/WARN]: monedas moved too quickly! 19.03883134562193,-2.0,-1.6339928007421065
 [01:55:10] [Server thread/WARN]: monedas moved too quickly! -8.2175505394614,-1.0,6.1146977778981295
+[02:03:49] [Server thread/INFO]: monedas lost connection: Disconnected
+[02:03:49] [Server thread/INFO]: monedas left the game
+[02:04:09] [Server thread/INFO]: lettheZoka lost connection: Disconnected
+[02:04:09] [Server thread/INFO]: lettheZoka left the game
+[02:04:30] [Server thread/INFO]: Stopping the server
+[02:04:30] [Server thread/INFO]: Stopping server
+[02:04:30] [Server thread/INFO]: [CompassPlayerLocalizer_Alpha] Disabling CompassPlayerLocalizer_Alpha v0.1
+[02:04:30] [Server thread/INFO]: [CompassPlayerLocalizer_Alpha] Inhabilitando Plugin CompassPlayerLocalizer
+[02:04:30] [Server thread/INFO]: [TabTPS] Disabling TabTPS v1.3.26
+[02:04:30] [Server thread/INFO]: [Graves] Disabling Graves v4.9.7
+[02:04:30] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.3.1
+[02:04:30] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.1
+[02:04:30] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[02:04:30] [Server thread/INFO]: Saving players
+[02:04:30] [Server thread/INFO]: Saving worlds
+[02:04:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:04:30] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[02:04:30] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[02:04:30] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[02:04:31] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 9 entity chunks, 0 poi chunks in world 'world' in 0.07s
+[02:04:31] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[02:04:31] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[02:04:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:04:31] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[02:04:31] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[02:04:31] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[02:04:31] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 1 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[02:04:31] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[02:04:31] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[02:04:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[02:04:31] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[02:04:31] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[02:04:31] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[02:04:31] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[02:04:31] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[02:04:31] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[02:04:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:04:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:04:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:04:31] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:04:31] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[02:04:31] [Server thread/INFO]: All I/O tasks to complete
+[02:04:31] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[02:04:31] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
