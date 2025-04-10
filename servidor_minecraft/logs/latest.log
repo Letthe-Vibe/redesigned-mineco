@@ -1,127 +1,77 @@
-[20:06:05] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
-[20:06:05] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-224-main@0cf7315 (2025-04-07T12:01:39Z) for Minecraft 1.21.4
-[20:06:05] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[20:06:05] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/Graves-4.9.7.jar'...
-[20:06:06] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/Graves-4.9.7.jar' in 873ms.
-[20:06:06] [ServerMain/INFO]: [PluginInitializerManager] Initialized 4 plugins
-[20:06:06] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
- - Graves (4.9.7), TabTPS (1.3.26), ViaBackwards (5.3.1), ViaVersion (5.3.1)
-[20:06:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:06:13] [ServerMain/INFO]: Loaded 1370 recipes
-[20:06:13] [ServerMain/INFO]: Loaded 1481 advancements
-[20:06:13] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[20:06:13] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 227.1ms
-[20:06:13] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[20:06:13] [Server thread/INFO]: Loading properties
-[20:06:13] [Server thread/INFO]: This server is running Paper version 1.21.4-224-main@0cf7315 (2025-04-07T12:01:39Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
-[20:06:13] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[20:06:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:06:13] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:06:14] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[20:06:14] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[20:06:14] [Server thread/INFO]: Default game type: SURVIVAL
-[20:06:14] [Server thread/INFO]: Generating keypair
-[20:06:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:06:15] [Server thread/INFO]: Using epoll channel type
-[20:06:15] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[20:06:15] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[20:06:16] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.3.1
-[20:06:16] [Server thread/INFO]: [ViaVersion] ViaVersion 5.3.1 is now loaded. Registering protocol transformers and injecting...
-[20:06:17] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[20:06:17] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[20:06:17] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[20:06:17] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[20:06:18] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.3.1
-[20:06:18] [Server thread/INFO]: [Graves] Loading server plugin Graves v4.9.7
-[20:06:18] [Server thread/INFO]: [TabTPS] Loading server plugin TabTPS v1.3.26
-[20:06:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:06:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:06:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:06:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:06:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:06:18] [Server thread/INFO]: Preparing level "world"
-[20:06:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:06:19] [Server thread/INFO]: Preparing spawn area: 0%
-[20:06:19] [Server thread/INFO]: Preparing spawn area: 2%
-[20:06:19] [Server thread/INFO]: Time elapsed: 976 ms
-[20:06:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[20:06:19] [Server thread/INFO]: Preparing spawn area: 0%
-[20:06:20] [Server thread/INFO]: Time elapsed: 225 ms
-[20:06:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[20:06:20] [Server thread/INFO]: Preparing spawn area: 0%
-[20:06:20] [Server thread/INFO]: Time elapsed: 126 ms
-[20:06:20] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.3.1
-[20:06:20] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.4 (769)
-[20:06:20] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.3.1
-[20:06:20] [Server thread/INFO]: [Graves] Enabling Graves v4.9.7
-[20:06:20] [Server thread/INFO]: [Graves] Integration: Hooked into MiniMessage.
-[20:06:21] [Server thread/INFO]: [TabTPS] Enabling TabTPS v1.3.26
-[20:06:22] [Server thread/INFO]: [spark] Starting background profiler...
-[20:06:22] [Server thread/INFO]: Done preparing level "world" (4.052s)
-[20:06:22] [Server thread/INFO]: Running delayed init tasks
-[20:06:22] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[20:06:22] [Server thread/INFO]: Done (18.661s)! For help, type "help"
-[20:06:47] [User Authenticator #0/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
-[20:06:48] [Server thread/INFO]: monedas joined the game
-[20:06:48] [Server thread/INFO]: monedas[/127.207.114.104:49873] logged in with entity id 29 at ([world]-219.5, -31.0, -498.5)
-[20:07:37] [User Authenticator #0/INFO]: UUID of player lettheZoka is 808a7385-697f-3ad2-8e87-262c99c20d0d
-[20:07:37] [Server thread/INFO]: lettheZoka joined the game
-[20:07:37] [Server thread/INFO]: lettheZoka[/127.211.6.128:41739] logged in with entity id 316 at ([world]-222.69999998807907, -30.0, -496.30000001192093)
-[20:08:00] [Server thread/INFO]: monedas was slain by lettheZoka
-[20:08:49] [Server thread/INFO]: Named entity Zombie['monedas's Zombie'/442, uuid='87a44adc-58f7-43bb-88b3-d91a501f19b5', l='ServerLevel[world]', x=-219.53, y=-30.37, z=-498.24, cpos=[-14, -32], tl=207, v=true] died: monedas's Zombie was slain by lettheZoka
-[20:09:27] [Server thread/INFO]: lettheZoka was slain by monedas
-[20:13:24] [Server thread/INFO]: monedas was slain by Zombie
-[20:20:59] [Server thread/INFO]: monedas has made the advancement [What a Deal!]
-[20:23:24] [Async Chat Thread - #0/INFO]: [Not Secure] <monedas> e wdwde
-[20:24:40] [Server thread/INFO]: Unknown or incomplete command, see below for error
-xd<--[HERE]
-[20:25:50] [Server thread/INFO]: monedas has made the advancement [Fishy Business]
-[20:33:21] [Server thread/INFO]: [Not Secure] [Server] hola
-[20:33:41] [Server thread/INFO]: [Not Secure] [Server] Daniel es gay
-[20:39:32] [Server thread/INFO]: monedas was shot by Skeleton
-[20:53:49] [Server thread/INFO]: [Not Secure] [Server] cualquier pendejada
-[21:05:05] [Server thread/INFO]: lettheZoka has made the advancement [Best Friends Forever]
-[21:05:57] [Server thread/INFO]: monedas was slain by Wolf
-[21:10:32] [Server thread/INFO]: lettheZoka issued server command: /tabtps toggle bossbar
-[21:13:45] [Server thread/INFO]: monedas lost connection: Disconnected
-[21:13:45] [Server thread/INFO]: monedas left the game
-[21:13:47] [Server thread/INFO]: lettheZoka lost connection: Disconnected
-[21:13:47] [Server thread/INFO]: lettheZoka left the game
-[21:14:12] [Server thread/INFO]: Stopping the server
-[21:14:12] [Server thread/INFO]: Stopping server
-[21:14:12] [Server thread/INFO]: [TabTPS] Disabling TabTPS v1.3.26
-[21:14:12] [Server thread/INFO]: [Graves] Disabling Graves v4.9.7
-[21:14:12] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.3.1
-[21:14:12] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.1
-[21:14:12] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[21:14:12] [Server thread/INFO]: Saving players
-[21:14:12] [Server thread/INFO]: Saving worlds
-[21:14:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:14:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[21:14:12] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[21:14:12] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[21:14:12] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 39 entity chunks, 0 poi chunks in world 'world' in 0.01s
-[21:14:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[21:14:12] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[21:14:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[21:14:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[21:14:12] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[21:14:12] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[21:14:12] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 1 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[21:14:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[21:14:12] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[21:14:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[21:14:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[21:14:12] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[21:14:12] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[21:14:12] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[21:14:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[21:14:12] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[21:14:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:14:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:14:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:14:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[21:14:12] [Server thread/INFO]: Waiting for I/O tasks to complete...
-[21:14:12] [Server thread/INFO]: All I/O tasks to complete
-[21:14:12] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[21:14:12] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[00:59:37] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
+[00:59:37] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-224-main@0cf7315 (2025-04-07T12:01:39Z) for Minecraft 1.21.4
+[00:59:37] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[00:59:38] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
+[00:59:38] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
+ - CompassPlayerLocalizer_Alpha (0.1), Graves (4.9.7), TabTPS (1.3.26), ViaBackwards (5.3.1), ViaVersion (5.3.1)
+[00:59:44] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:59:47] [ServerMain/INFO]: Loaded 1370 recipes
+[00:59:47] [ServerMain/INFO]: Loaded 1481 advancements
+[00:59:47] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[00:59:47] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 259.1ms
+[00:59:47] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[00:59:47] [Server thread/INFO]: Loading properties
+[00:59:47] [Server thread/INFO]: This server is running Paper version 1.21.4-224-main@0cf7315 (2025-04-07T12:01:39Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
+[00:59:47] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[00:59:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:59:48] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:59:49] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[00:59:49] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[00:59:49] [Server thread/INFO]: Default game type: SURVIVAL
+[00:59:49] [Server thread/INFO]: Generating keypair
+[00:59:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:59:49] [Server thread/INFO]: Using epoll channel type
+[00:59:49] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[00:59:49] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[00:59:50] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.3.1
+[00:59:50] [Server thread/INFO]: [ViaVersion] ViaVersion 5.3.1 is now loaded. Registering protocol transformers and injecting...
+[00:59:51] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[00:59:51] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[00:59:51] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[00:59:51] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[00:59:52] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.3.1
+[00:59:52] [Server thread/INFO]: [Graves] Loading server plugin Graves v4.9.7
+[00:59:52] [Server thread/INFO]: [TabTPS] Loading server plugin TabTPS v1.3.26
+[00:59:52] [Server thread/INFO]: [CompassPlayerLocalizer_Alpha] Loading server plugin CompassPlayerLocalizer_Alpha v0.1
+[00:59:52] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:59:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:59:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:59:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:59:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:59:52] [Server thread/INFO]: Preparing level "world"
+[00:59:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:59:53] [Server thread/INFO]: Preparing spawn area: 0%
+[00:59:54] [Server thread/INFO]: Preparing spawn area: 4%
+[00:59:54] [Server thread/INFO]: Preparing spawn area: 4%
+[00:59:54] [Server thread/INFO]: Time elapsed: 1021 ms
+[00:59:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:59:54] [Server thread/INFO]: Preparing spawn area: 0%
+[00:59:54] [Server thread/INFO]: Time elapsed: 243 ms
+[00:59:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:59:54] [Server thread/INFO]: Preparing spawn area: 0%
+[00:59:54] [Server thread/INFO]: Time elapsed: 173 ms
+[00:59:54] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.3.1
+[00:59:54] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.4 (769)
+[00:59:54] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.3.1
+[00:59:54] [Server thread/INFO]: [Graves] Enabling Graves v4.9.7
+[00:59:54] [Server thread/INFO]: [Graves] Integration: Hooked into MiniMessage.
+[00:59:55] [Server thread/INFO]: [TabTPS] Enabling TabTPS v1.3.26
+[00:59:56] [Server thread/INFO]: [CompassPlayerLocalizer_Alpha] Enabling CompassPlayerLocalizer_Alpha v0.1
+[00:59:56] [Server thread/INFO]: [CompassPlayerLocalizer_Alpha] Iniciando Plugin CompassPlayerLocalizer
+[00:59:57] [Server thread/INFO]: [spark] Starting background profiler...
+[00:59:57] [Server thread/INFO]: Done preparing level "world" (4.804s)
+[00:59:57] [Server thread/INFO]: Running delayed init tasks
+[00:59:57] [Craft Scheduler Thread - 3 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[00:59:57] [Server thread/INFO]: Done (21.555s)! For help, type "help"
+[01:00:09] [User Authenticator #0/INFO]: UUID of player lettheZoka is 808a7385-697f-3ad2-8e87-262c99c20d0d
+[01:00:10] [Server thread/INFO]: lettheZoka joined the game
+[01:00:10] [Server thread/INFO]: lettheZoka[/127.211.6.128:36725] logged in with entity id 25 at ([world]-1289.4747557063288, 23.0, -193.03277301986336)
+[01:00:11] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: f5a7d89b-23a6-4c16-8fca-7c2b8c23af5e, mapped to Bat['Bat'/101, uuid='f5a7d89b-23a6-4c16-8fca-7c2b8c23af5e', l='ServerLevel[world]', x=-1311.67, y=50.31, z=-294.51, cpos=[-82, -19], tl=0, v=true], can't add Bat['Bat'/106, uuid='f5a7d89b-23a6-4c16-8fca-7c2b8c23af5e', l='ServerLevel[world]', x=-1323.93, y=51.04, z=-297.90, cpos=[-83, -19], tl=0, v=false]
+[01:00:12] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: f5a7d89b-23a6-4c16-8fca-7c2b8c23af5e, mapped to Bat['Bat'/101, uuid='f5a7d89b-23a6-4c16-8fca-7c2b8c23af5e', l='ServerLevel[world]', x=-1311.67, y=50.31, z=-294.51, cpos=[-82, -19], tl=0, v=true], can't add Bat['Bat'/149, uuid='f5a7d89b-23a6-4c16-8fca-7c2b8c23af5e', l='ServerLevel[world]', x=-1337.74, y=48.02, z=-295.58, cpos=[-84, -19], tl=0, v=false]
+[01:00:12] [User Authenticator #0/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
+[01:00:13] [Server thread/INFO]: monedas joined the game
+[01:00:13] [Server thread/INFO]: monedas[/127.207.114.104:54201] logged in with entity id 178 at ([world]-1287.598550715176, 23.0, -192.90917196565877)
+[01:00:15] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 39ba3b7d-bada-4ded-9c88-6c8369a86ca3, mapped to Cat['Cat'/254, uuid='39ba3b7d-bada-4ded-9c88-6c8369a86ca3', l='ServerLevel[world]', x=-1400.78, y=88.00, z=-340.74, cpos=[-88, -22], tl=0, v=true], can't add Cat['Cat'/262, uuid='39ba3b7d-bada-4ded-9c88-6c8369a86ca3', l='ServerLevel[world]', x=-1401.25, y=86.00, z=-356.48, cpos=[-88, -23], tl=0, v=false]
+[01:00:39] [Server thread/INFO]: [Not Secure] [Server] xddd
+[01:00:58] [Server thread/INFO]: lettheZoka has made the advancement [Suit Up]
+[01:01:04] [Server thread/INFO]: monedas has made the advancement [Suit Up]
