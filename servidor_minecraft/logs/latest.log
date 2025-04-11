@@ -74,3 +74,5 @@
 [22:06:13] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: bc598189-4e02-4cf2-8cb2-8674bb473a85, mapped to Bat['Bat'/198, uuid='bc598189-4e02-4cf2-8cb2-8674bb473a85', l='ServerLevel[world]', x=-1398.84, y=77.46, z=255.81, cpos=[-88, 15], tl=0, v=true], can't add Bat['Bat'/217, uuid='bc598189-4e02-4cf2-8cb2-8674bb473a85', l='ServerLevel[world]', x=-1402.35, y=80.47, z=267.48, cpos=[-88, 16], tl=0, v=false]
 [22:06:13] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: db4cbc2b-8103-4494-8d7f-2d0a4580b3b6, mapped to Bat['Bat'/196, uuid='db4cbc2b-8103-4494-8d7f-2d0a4580b3b6', l='ServerLevel[world]', x=-1183.28, y=37.58, z=188.94, cpos=[-74, 11], tl=0, v=true], can't add Bat['Bat'/224, uuid='db4cbc2b-8103-4494-8d7f-2d0a4580b3b6', l='ServerLevel[world]', x=-1183.50, y=39.03, z=194.73, cpos=[-74, 12], tl=0, v=false]
 [22:11:46] [Server thread/INFO]: [Not Secure] [Server] SIUUU
+[22:15:32] [Server thread/INFO]: monedas was shot by Skeleton
+[22:24:40] [Server thread/INFO]: monedas was blown up by Creeper
