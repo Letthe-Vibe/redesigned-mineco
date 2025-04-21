@@ -8549,3 +8549,28 @@ Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, 
 [2J8[0mGot Error
 MSG: Failed to load latest tunnels
 Error: ClientError(ParseError(Error("expected value", line: 1, column: 1), 502, "error code: 502"))
+[2J8[0mplayit (v0.15.26): 1744755337445 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stories-cup.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744755340536 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stories-cup.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744755344134 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stories-cup.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744755348044 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stories-cup.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1744755351437 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+stories-cup.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
