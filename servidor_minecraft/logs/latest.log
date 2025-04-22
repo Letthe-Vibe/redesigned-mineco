@@ -1,302 +1,106 @@
-[20:08:22] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1026-azure (amd64)
-[20:08:22] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-224-main@0cf7315 (2025-04-07T12:01:39Z) for Minecraft 1.21.4
-[20:08:22] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[20:08:23] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
-[20:08:23] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
+[20:57:27] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1026-azure (amd64)
+[20:57:27] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-224-main@0cf7315 (2025-04-07T12:01:39Z) for Minecraft 1.21.4
+[20:57:27] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[20:57:27] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
+[20:57:27] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
  - CompassPlayerLocalizer_Alpha (0.1), Graves (4.9.7), TabTPS (1.3.26), ViaBackwards (5.3.1), ViaVersion (5.3.1)
-[20:08:29] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:08:32] [ServerMain/INFO]: Loaded 1370 recipes
-[20:08:32] [ServerMain/INFO]: Loaded 1481 advancements
-[20:08:32] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[20:08:32] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 380.2ms
-[20:08:32] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[20:08:32] [Server thread/INFO]: Loading properties
-[20:08:32] [Server thread/INFO]: This server is running Paper version 1.21.4-224-main@0cf7315 (2025-04-07T12:01:39Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
-[20:08:32] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[20:08:33] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:08:33] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:08:34] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[20:08:34] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[20:08:34] [Server thread/INFO]: Default game type: SURVIVAL
-[20:08:34] [Server thread/INFO]: Generating keypair
-[20:08:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:08:34] [Server thread/INFO]: Using epoll channel type
-[20:08:34] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[20:08:34] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[20:08:37] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.3.1
-[20:08:37] [Server thread/INFO]: [ViaVersion] ViaVersion 5.3.1 is now loaded. Registering protocol transformers and injecting...
-[20:08:38] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[20:08:38] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[20:08:38] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[20:08:38] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[20:08:39] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.3.1
-[20:08:39] [Server thread/INFO]: [Graves] Loading server plugin Graves v4.9.7
-[20:08:39] [Server thread/INFO]: [TabTPS] Loading server plugin TabTPS v1.3.26
-[20:08:39] [Server thread/INFO]: [CompassPlayerLocalizer_Alpha] Loading server plugin CompassPlayerLocalizer_Alpha v0.1
-[20:08:39] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:08:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:08:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:08:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:08:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:08:39] [Server thread/INFO]: Preparing level "world"
-[20:08:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:08:40] [Server thread/INFO]: Preparing spawn area: 0%
-[20:08:41] [Server thread/INFO]: Preparing spawn area: 2%
-[20:08:41] [Server thread/INFO]: Preparing spawn area: 10%
-[20:08:41] [Server thread/INFO]: Time elapsed: 1391 ms
-[20:08:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[20:08:42] [Server thread/INFO]: Preparing spawn area: 0%
-[20:08:42] [Server thread/INFO]: Preparing spawn area: 6%
-[20:08:42] [Server thread/INFO]: Preparing spawn area: 89%
-[20:08:43] [Server thread/INFO]: Time elapsed: 1157 ms
-[20:08:43] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[20:08:43] [Server thread/INFO]: Preparing spawn area: 0%
-[20:08:43] [Server thread/INFO]: Time elapsed: 331 ms
-[20:08:43] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.3.1
-[20:08:43] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.4 (769)
-[20:08:43] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.3.1
-[20:08:43] [Server thread/INFO]: [Graves] Enabling Graves v4.9.7
-[20:08:43] [Server thread/INFO]: [Graves] Integration: Hooked into MiniMessage.
-[20:08:44] [Server thread/INFO]: [TabTPS] Enabling TabTPS v1.3.26
-[20:08:46] [Server thread/INFO]: [CompassPlayerLocalizer_Alpha] Enabling CompassPlayerLocalizer_Alpha v0.1
-[20:08:46] [Server thread/INFO]: [CompassPlayerLocalizer_Alpha] Iniciando Plugin CompassPlayerLocalizer
-[20:08:46] [Server thread/INFO]: [spark] Starting background profiler...
-[20:08:47] [Server thread/INFO]: Done preparing level "world" (7.079s)
-[20:08:47] [Server thread/INFO]: Running delayed init tasks
-[20:08:47] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[20:08:47] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.3.2, you're on: 5.3.1
-[20:08:47] [Server thread/INFO]: Done (26.321s)! For help, type "help"
-[20:09:58] [User Authenticator #0/INFO]: UUID of player KedZoka is af334b6e-99af-345f-bdef-5e86f82e3ded
-[20:09:59] [Server thread/INFO]: KedZoka joined the game
-[20:09:59] [Server thread/INFO]: KedZoka[/127.212.225.52:39893] logged in with entity id 92 at ([world]-1065.2205944932218, 63.0, -506.6321813528664)
-[20:13:17] [User Authenticator #1/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
-[20:13:20] [Server thread/INFO]: monedas joined the game
-[20:13:20] [Server thread/INFO]: monedas[/127.207.114.104:54257] logged in with entity id 685 at ([world]-1065.296881520251, 63.0, -511.06541315347624)
-[20:13:35] [Async Chat Thread - #0/INFO]: [Not Secure] <monedas> oeeeeee
-[20:13:46] [Async Chat Thread - #0/INFO]: [Not Secure] <KedZoka> oeeee
-[20:14:01] [Async Chat Thread - #0/INFO]: [Not Secure] <KedZoka> Perro se ve brutal el minecraf
-[20:14:09] [Async Chat Thread - #0/INFO]: [Not Secure] <KedZoka> le puse los shaders seus
-[20:14:26] [Async Chat Thread - #0/INFO]: [Not Secure] <monedas> mande una imagen por whatssaps
-[20:14:32] [Async Chat Thread - #0/INFO]: [Not Secure] <monedas> odiscord
-[20:14:39] [Async Chat Thread - #0/INFO]: [Not Secure] <KedZoka> por discord pa no perder quality
-[20:14:45] [Async Chat Thread - #0/INFO]: [Not Secure] <monedas> eso
-[20:15:11] [Async Chat Thread - #1/INFO]: [Not Secure] <KedZoka> voy a hacer mini grabacion mejor
-[20:15:30] [Async Chat Thread - #1/INFO]: [Not Secure] <monedas> eso eso
-[20:16:37] [Async Chat Thread - #2/INFO]: [Not Secure] <KedZoka> verga disq solo 10 mb para mandar videos discord mmgvo
-[20:17:00] [Async Chat Thread - #2/INFO]: [Not Secure] <monedas> jajajaj xd
-[20:17:44] [Async Chat Thread - #2/INFO]: [Not Secure] <monedas> sopota madre
-[20:17:54] [Async Chat Thread - #2/INFO]: [Not Secure] <monedas> se ve re brutal
-[20:18:13] [Async Chat Thread - #2/INFO]: [Not Secure] <monedas> mecho mejor que antes
-[20:18:15] [Async Chat Thread - #2/INFO]: [Not Secure] <KedZoka> Cierto? ahi le mande dos imagenes
-[20:18:29] [Async Chat Thread - #2/INFO]: [Not Secure] <monedas> y eso que antes se viea bien
-[20:18:38] [Async Chat Thread - #2/INFO]: [Not Secure] <KedZoka> por lo que lo tengo con shaders más pesados y en 1080p
-[20:19:07] [Async Chat Thread - #2/INFO]: [Not Secure] <monedas> ooo la 2 imagen se ve mucho mas hermoso
-[20:19:18] [Async Chat Thread - #2/INFO]: [Not Secure] <monedas> men lo felicitoooooo
-[20:19:33] [Async Chat Thread - #2/INFO]: [Not Secure] <KedZoka> gracias mi broo
-[20:19:42] [Async Chat Thread - #2/INFO]: [Not Secure] <KedZoka> eso si ahora tengo deudas JAJAJAJ
-[20:19:43] [Async Chat Thread - #2/INFO]: [Not Secure] <monedas> :)
-[20:19:57] [Async Chat Thread - #2/INFO]: [Not Secure] <monedas> pero lo vale
-[20:20:01] [Async Chat Thread - #2/INFO]: [Not Secure] <KedZoka> reaaaal
-[20:20:14] [Async Chat Thread - #2/INFO]: [Not Secure] <monedas> disfrutar hasta donde pueda
-[20:20:29] [Async Chat Thread - #2/INFO]: [Not Secure] <monedas> el dinero va y viene
-[20:20:35] [Async Chat Thread - #2/INFO]: [Not Secure] <KedZoka> reaaal}
-[20:20:39] [Async Chat Thread - #2/INFO]: [Not Secure] <KedZoka> siuu
-[20:20:45] [Async Chat Thread - #2/INFO]: [Not Secure] <monedas> pero el ezfuerzo de tener sus cosas y cumplir metas
-[20:20:49] [Async Chat Thread - #2/INFO]: [Not Secure] <monedas> orooo
-[20:21:00] [Async Chat Thread - #2/INFO]: [Not Secure] <KedZoka> o dios
-[20:21:21] [Async Chat Thread - #2/INFO]: [Not Secure] <monedas> verga
-[20:21:31] [Async Chat Thread - #2/INFO]: [Not Secure] <monedas> esta de suerte hoy
-[20:21:34] [Async Chat Thread - #2/INFO]: [Not Secure] <KedZoka> ESTA MADRE TIENE REPARACION
-[20:21:47] [Async Chat Thread - #2/INFO]: [Not Secure] <KedZoka> osea, es infinita
-[20:21:56] [Async Chat Thread - #2/INFO]: [Not Secure] <monedas> god
-[20:21:59] [Async Chat Thread - #2/INFO]: [Not Secure] <KedZoka> a mimir bro
-[20:22:48] [Async Chat Thread - #2/INFO]: [Not Secure] <KedZoka> y se mantiene a buena temperatura
-[20:23:04] [Async Chat Thread - #2/INFO]: [Not Secure] <monedas> mejor dicho
-[20:23:06] [Async Chat Thread - #2/INFO]: [Not Secure] <KedZoka> lo mejor es que me sobró plata me voy a comprar el hogwarts legacy
-[20:23:14] [Async Chat Thread - #2/INFO]: [Not Secure] <monedas> huy men
-[20:23:46] [Async Chat Thread - #2/INFO]: [Not Secure] <KedZoka> si quiere me compro el left for dead 2 pa jugar
-[20:24:09] [Async Chat Thread - #2/INFO]: [Not Secure] <KedZoka> guarde esas botellas son para pociones
-[20:24:22] [Async Chat Thread - #2/INFO]: [Not Secure] <monedas> pues si seria bueno
-[20:25:05] [Async Chat Thread - #2/INFO]: [Not Secure] <monedas> terminamos de pescar y nos juimos
-[20:25:20] [Async Chat Thread - #2/INFO]: [Not Secure] <KedZoka> sisas toca trasladar nuestra mesa de encanto
-[20:25:45] [Async Chat Thread - #2/INFO]: [Not Secure] <KedZoka> toma breo
-[20:25:54] [Async Chat Thread - #2/INFO]: [Not Secure] <KedZoka> la otra
-[20:25:59] [Async Chat Thread - #2/INFO]: [Not Secure] <KedZoka> tiene irrompibilidad
-[20:26:12] [Async Chat Thread - #2/INFO]: [Not Secure] <monedas> no ammes
-[20:26:32] [Async Chat Thread - #2/INFO]: [Not Secure] <monedas> wa
-[20:26:32] [Async Chat Thread - #2/INFO]: [Not Secure] <KedZoka> sabe a cuantos chunks lo puse? XDD
-[20:26:39] [Async Chat Thread - #2/INFO]: [Not Secure] <monedas> no se 14
-[20:26:45] [Async Chat Thread - #2/INFO]: [Not Secure] <KedZoka> BROOOO
-[20:26:57] [Async Chat Thread - #2/INFO]: [Not Secure] <KedZoka> 25 LOL
-[20:27:03] [Async Chat Thread - #2/INFO]: [Not Secure] <monedas> huyyss
-[20:27:29] [Async Chat Thread - #2/INFO]: [Not Secure] <KedZoka> agarro la caña?
-[20:27:45] [Async Chat Thread - #2/INFO]: [Not Secure] <monedas> nop
-[20:28:02] [Async Chat Thread - #2/INFO]: [Not Secure] <KedZoka> tan raro yo vi que salio una
-[20:28:35] [Async Chat Thread - #2/INFO]: [Not Secure] <KedZoka> esquizofrenia
-[20:29:01] [Async Chat Thread - #2/INFO]: [Not Secure] <KedZoka> se reparo
-[20:30:08] [Async Chat Thread - #4/INFO]: [Not Secure] <KedZoka> JAJAJAJ DANIEEEL
-[20:30:31] [Async Chat Thread - #4/INFO]: [Not Secure] <KedZoka> Tome
-[20:31:20] [Async Chat Thread - #5/INFO]: [Not Secure] <KedZoka> le di una caña toca que la reparre
-[20:31:29] [Async Chat Thread - #5/INFO]: [Not Secure] <KedZoka> con el yunque
-[20:31:36] [Async Chat Thread - #5/INFO]: [Not Secure] <monedas> hagele
-[20:31:56] [Async Chat Thread - #5/INFO]: [Not Secure] <KedZoka> pone la caña normal pero asegurese que vaya primero la encantada o creo que pierrde el efecto
-[20:32:37] [Async Chat Thread - #5/INFO]: [Not Secure] <monedas> eso caña irrompible 111
-[20:32:53] [Async Chat Thread - #5/INFO]: [Not Secure] <KedZoka> a medida que encuentre cañas encantadas combinelas con el yunque pa sumas efectos
-[20:33:20] [Async Chat Thread - #5/INFO]: [Not Secure] <KedZoka> creo que la que le di trae atraccion
-[20:33:27] [Async Chat Thread - #5/INFO]: [Not Secure] <monedas> sisas
-[20:34:17] [User Authenticator #2/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
-[20:34:17] [Server thread/INFO]: monedas lost connection: You logged in from another location
-[20:34:17] [Server thread/INFO]: monedas left the game
-[20:34:18] [Server thread/INFO]: monedas joined the game
-[20:34:18] [Server thread/INFO]: monedas[/127.207.114.104:44455] logged in with entity id 2975 at ([world]-1063.9119444315982, 63.0, -507.75362263880015)
-[20:36:12] [Async Chat Thread - #6/INFO]: [Not Secure] <KedZoka> quite la cama y pongala en otro lado
-[20:37:21] [Server thread/INFO]: [Not Secure] [Server] XDD
-[20:37:40] [Async Chat Thread - #8/INFO]: [Not Secure] <KedZoka> nos vamos?
-[20:39:52] [Async Chat Thread - #10/INFO]: [Not Secure] <monedas> yay yay
-[20:39:56] [Async Chat Thread - #10/INFO]: [Not Secure] <KedZoka> esooo
-[20:39:57] [Async Chat Thread - #10/INFO]: [Not Secure] <monedas> aba cuadrando
-[20:40:10] [Async Chat Thread - #10/INFO]: [Not Secure] <KedZoka> cuadrando?
-[20:40:37] [Async Chat Thread - #11/INFO]: [Not Secure] <KedZoka> vamonos
-[20:41:04] [Async Chat Thread - #11/INFO]: [Not Secure] <KedZoka> como nos vamos a llevar a marrtina
-[20:41:18] [Async Chat Thread - #11/INFO]: [Not Secure] <monedas> relax si se queda no hay problema
-[20:41:25] [Async Chat Thread - #11/INFO]: [Not Secure] <KedZoka> breves
-[20:41:44] [Async Chat Thread - #11/INFO]: [Not Secure] <KedZoka> vot a hacer un barco con cofre
-[20:41:50] [Async Chat Thread - #11/INFO]: [Not Secure] <monedas> yo
-[20:41:55] [Async Chat Thread - #11/INFO]: [Not Secure] <monedas> tengo uno
-[20:42:05] [Async Chat Thread - #11/INFO]: [Not Secure] <KedZoka> con cofre?
-[20:45:35] [Async Chat Thread - #12/INFO]: [Not Secure] <KedZoka> vamos
-[20:45:55] [Async Chat Thread - #12/INFO]: [Not Secure] <KedZoka> aaa solo deja uno
-[20:46:00] [Async Chat Thread - #12/INFO]: [Not Secure] <monedas> yo como
-[20:46:04] [Async Chat Thread - #12/INFO]: [Not Secure] <monedas> ajdjsas
-[20:46:09] [Async Chat Thread - #12/INFO]: [Not Secure] <KedZoka> toca hacer otro bote
-[20:46:52] [Async Chat Thread - #12/INFO]: [Not Secure] <KedZoka> me compro el left?
-[20:47:06] [Async Chat Thread - #12/INFO]: [Not Secure] <monedas> si jeje ta varato
-[20:47:20] [Async Chat Thread - #12/INFO]: [Not Secure] <KedZoka> breves ese si se puede online?
-[20:47:26] [Async Chat Thread - #12/INFO]: [Not Secure] <monedas> sisas
-[20:47:30] [Async Chat Thread - #13/INFO]: [Not Secure] <monedas> oeeee
-[20:47:32] [Async Chat Thread - #12/INFO]: [Not Secure] <KedZoka> vaaa
-[20:47:35] [Async Chat Thread - #12/INFO]: [Not Secure] <monedas> zombisss
-[20:47:35] [Async Chat Thread - #12/INFO]: [Not Secure] <KedZoka> mande
-[20:47:54] [Async Chat Thread - #12/INFO]: [Not Secure] <KedZoka> a mimir
-[20:52:36] [Async Chat Thread - #14/INFO]: [Not Secure] <KedZoka> esto es raro
-[20:55:16] [Async Chat Thread - #16/INFO]: [Not Secure] <KedZoka> DANIEEEL
-[20:55:30] [Async Chat Thread - #16/INFO]: [Not Secure] <KedZoka> sigame encontre alfo
-[20:56:54] [Async Chat Thread - #18/INFO]: [Not Secure] <KedZoka> hay una bruja ojo
-[20:57:26] [Async Chat Thread - #18/INFO]: [Not Secure] <KedZoka> el veneno no mata
-[20:57:30] [Async Chat Thread - #18/INFO]: [Not Secure] <KedZoka> solo deja a un corazon
-[20:57:50] [Async Chat Thread - #18/INFO]: [Not Secure] <KedZoka> creo que es todo busquemos otro bioma
-[20:59:27] [Async Chat Thread - #20/INFO]: [Not Secure] <monedas> mimido
-[20:59:44] [Async Chat Thread - #20/INFO]: [Not Secure] <monedas> el señor server esta callado
-[21:00:01] [Server thread/INFO]: [Not Secure] [Server] es que me da penita
-[21:00:08] [Async Chat Thread - #20/INFO]: [Not Secure] <monedas> ajjajaxd
-[21:00:37] [Async Chat Thread - #20/INFO]: [Not Secure] <KedZoka> voy a aprovechar los 25 chunks pere
-[21:03:19] [Async Chat Thread - #22/INFO]: [Not Secure] <KedZoka> Aaaa claro el server tiene limitados los chunks
-[21:04:24] [Async Chat Thread - #24/INFO]: [Not Secure] <KedZoka> que se hizo
-[21:04:34] [Async Chat Thread - #24/INFO]: [Not Secure] <monedas> encointre
-[21:04:39] [Async Chat Thread - #24/INFO]: [Not Secure] <monedas> una mina
-[21:04:44] [Async Chat Thread - #24/INFO]: [Not Secure] <monedas> zorros
-[21:04:50] [Async Chat Thread - #24/INFO]: [Not Secure] <KedZoka> esta buena?
-[21:04:57] [Async Chat Thread - #24/INFO]: [Not Secure] <monedas> y mucha de esas piedras en cruz
-[21:05:25] [Async Chat Thread - #24/INFO]: [Not Secure] <monedas> la mina no se
-[21:05:36] [Async Chat Thread - #24/INFO]: [Not Secure] <monedas> pero si quiere revisamos
-[21:05:48] [Async Chat Thread - #24/INFO]: [Not Secure] <KedZoka> estamos buscando aldeas
-[21:06:01] [Async Chat Thread - #24/INFO]: [Not Secure] <monedas> hagale ya voy para halla
-[21:06:14] [Async Chat Thread - #24/INFO]: [Not Secure] <KedZoka> breves
-[21:07:20] [Async Chat Thread - #26/INFO]: [Not Secure] <monedas> llegue
-[21:08:01] [Async Chat Thread - #26/INFO]: [Not Secure] <KedZoka> por donde erra
-[21:08:06] [Server thread/WARN]: Spruce Boat with Chest (vehicle of monedas) moved wrongly! 0.39009163198170427
-[21:08:17] [Async Chat Thread - #26/INFO]: [Not Secure] <monedas> elotrooo
-[21:08:28] [Async Chat Thread - #26/INFO]: [Not Secure] <KedZoka> ok
-[21:08:58] [Async Chat Thread - #27/INFO]: [Not Secure] <KedZoka> izquierda derecha
-[21:09:07] [Async Chat Thread - #27/INFO]: [Not Secure] <monedas> mmm surda
-[21:10:24] [Async Chat Thread - #28/INFO]: [Not Secure] <KedZoka> ni una aldea
-[21:11:39] [Async Chat Thread - #30/INFO]: [Not Secure] <KedZoka> a los botes
-[21:12:37] [Async Chat Thread - #30/INFO]: [Not Secure] <KedZoka> alavada sea la brujula
-[21:13:02] [Async Chat Thread - #30/INFO]: [Not Secure] <KedZoka> GONORREA
-[21:13:10] [Async Chat Thread - #30/INFO]: [Not Secure] <monedas> jajajjajaja
-[21:13:39] [Async Chat Thread - #30/INFO]: [Not Secure] <KedZoka> guardo coordenadas pa despues
-[21:13:58] [Async Chat Thread - #30/INFO]: [Not Secure] <KedZoka> vamos
-[21:15:35] [Server thread/WARN]: Spruce Boat with Chest (vehicle of KedZoka) moved wrongly! 0.5640035962298953
-[21:15:35] [Server thread/WARN]: Spruce Boat with Chest (vehicle of KedZoka) moved wrongly! 0.33580735107034343
-[21:15:54] [Async Chat Thread - #32/INFO]: [Not Secure] <KedZoka> SIIII
-[21:17:05] [Async Chat Thread - #34/INFO]: [Not Secure] <KedZoka> Ya estuvimos aca
-[21:17:35] [Async Chat Thread - #34/INFO]: [Not Secure] <monedas> sisas
-[21:17:38] [Async Chat Thread - #34/INFO]: [Not Secure] <KedZoka> Vamos
-[21:17:53] [Server thread/INFO]: Unknown or incomplete command, see below for error
-sau xdd<--[HERE]
-[21:17:56] [Server thread/INFO]: [Not Secure] [Server] xdd
-[21:18:00] [Async Chat Thread - #34/INFO]: [Not Secure] <monedas> vamos a la lava
-[21:19:26] [Async Chat Thread - #36/INFO]: [Not Secure] <KedZoka> Hay una cuevota
-[21:20:41] [Async Chat Thread - #38/INFO]: [Not Secure] <KedZoka> esta bonito el bioma y la cueva puede llevar a un spawner, vivimos aca?
-[21:20:47] [Async Chat Thread - #38/INFO]: [Not Secure] <monedas> hagale
-[21:20:56] [Async Chat Thread - #38/INFO]: [Not Secure] <monedas> encontre una entrada
-[21:21:06] [Async Chat Thread - #38/INFO]: [Not Secure] <monedas> podemos poner la base aqui
-[21:21:16] [Async Chat Thread - #38/INFO]: [Not Secure] <KedZoka> en la cima de la montaña?
-[21:21:37] [Async Chat Thread - #38/INFO]: [Not Secure] <monedas> nel
-[21:21:55] [Async Chat Thread - #38/INFO]: [Not Secure] <monedas> busqueme
-[21:22:12] [Async Chat Thread - #38/INFO]: [Not Secure] <KedZoka> y si mejor hacemos nuestra casa en la aldea
-[21:23:00] [Async Chat Thread - #38/INFO]: [Not Secure] <monedas> y como le hacemos
-[21:23:13] [Async Chat Thread - #38/INFO]: [Not Secure] <KedZoka> hacemos la casa y vamos construyendo mas expandiendo la aldea
-[21:23:25] [Async Chat Thread - #38/INFO]: [Not Secure] <monedas> pkey y dodne le hacemos
-[21:23:27] [Async Chat Thread - #38/INFO]: [Not Secure] <KedZoka> Hagamosla de dos pisos
-[21:23:28] [Async Chat Thread - #38/INFO]: [Not Secure] <monedas> aqui
-[21:23:36] [Async Chat Thread - #38/INFO]: [Not Secure] <KedZoka> en toda la alddea
-[21:24:00] [Async Chat Thread - #38/INFO]: [Not Secure] <monedas> hagake ya lellego
-[21:25:43] [Async Chat Thread - #40/INFO]: [Not Secure] <KedZoka> Aplanemos a este lado y la hacemos
-[21:27:18] [Async Chat Thread - #42/INFO]: [Not Secure] <KedZoka> Vaya consiguiendo toda la madera que pueda
-[21:27:23] [Async Chat Thread - #42/INFO]: [Not Secure] <KedZoka> De esa oscura
-[21:33:41] [Server thread/INFO]: [Not Secure] [Server] xd
-[21:36:36] [Async Chat Thread - #45/INFO]: [Not Secure] <KedZoka> asi se ve bien?
-[21:36:44] [Async Chat Thread - #45/INFO]: [Not Secure] <monedas> sisas
-[21:37:02] [Async Chat Thread - #45/INFO]: [Not Secure] <KedZoka> la hacemos grande sisas
-[21:42:52] [Async Chat Thread - #47/INFO]: [Not Secure] <KedZoka> ya me voy quiere ver los otros juegos? XD
-[21:43:52] [Async Chat Thread - #49/INFO]: [Not Secure] <KedZoka> sisas?
-[21:43:57] [Async Chat Thread - #49/INFO]: [Not Secure] <KedZoka> gracias
-[21:44:06] [Async Chat Thread - #49/INFO]: [Not Secure] <monedas> ya se como hacerlas
-[21:44:16] [Async Chat Thread - #49/INFO]: [Not Secure] <KedZoka> brutal
-[21:44:24] [Async Chat Thread - #49/INFO]: [Not Secure] <KedZoka> ya me voy le muestro los otros juegos?
-[21:44:54] [Server thread/INFO]: KedZoka lost connection: Disconnected
-[21:44:54] [Server thread/INFO]: KedZoka left the game
-[21:45:28] [Server thread/INFO]: [Not Secure] [Server] lea los mensajes mmgvo
-[21:46:24] [Server thread/INFO]: monedas lost connection: Disconnected
-[21:46:24] [Server thread/INFO]: monedas left the game
-[21:47:36] [Server thread/INFO]: Stopping the server
-[21:47:36] [Server thread/INFO]: Stopping server
-[21:47:36] [Server thread/INFO]: [CompassPlayerLocalizer_Alpha] Disabling CompassPlayerLocalizer_Alpha v0.1
-[21:47:36] [Server thread/INFO]: [CompassPlayerLocalizer_Alpha] Inhabilitando Plugin CompassPlayerLocalizer
-[21:47:36] [Server thread/INFO]: [TabTPS] Disabling TabTPS v1.3.26
-[21:47:36] [Server thread/INFO]: [Graves] Disabling Graves v4.9.7
-[21:47:36] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.3.1
-[21:47:36] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.1
-[21:47:36] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[21:47:36] [Server thread/INFO]: Saving players
-[21:47:36] [Server thread/INFO]: Saving worlds
-[21:47:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:47:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[21:47:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[21:47:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[21:47:36] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 25 entity chunks, 0 poi chunks in world 'world' in 0.01s
-[21:47:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[21:47:36] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[21:47:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[21:47:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[21:47:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[21:47:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[21:47:36] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 3 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[21:47:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[21:47:36] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[21:47:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[21:47:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[21:47:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[21:47:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[21:47:36] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[21:47:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[21:47:36] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[21:47:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:47:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[21:47:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:47:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[21:47:36] [Server thread/INFO]: Waiting for I/O tasks to complete...
-[21:47:36] [Server thread/INFO]: All I/O tasks to complete
-[21:47:36] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[21:47:36] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[20:57:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:57:35] [ServerMain/INFO]: Loaded 1370 recipes
+[20:57:35] [ServerMain/INFO]: Loaded 1481 advancements
+[20:57:35] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[20:57:35] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 242.6ms
+[20:57:35] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[20:57:35] [Server thread/INFO]: Loading properties
+[20:57:35] [Server thread/INFO]: This server is running Paper version 1.21.4-224-main@0cf7315 (2025-04-07T12:01:39Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
+[20:57:35] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[20:57:35] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:57:35] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:57:36] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[20:57:36] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[20:57:37] [Server thread/INFO]: Default game type: SURVIVAL
+[20:57:37] [Server thread/INFO]: Generating keypair
+[20:57:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:57:37] [Server thread/INFO]: Using epoll channel type
+[20:57:37] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[20:57:37] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[20:57:38] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.3.1
+[20:57:38] [Server thread/INFO]: [ViaVersion] ViaVersion 5.3.1 is now loaded. Registering protocol transformers and injecting...
+[20:57:38] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[20:57:38] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[20:57:39] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[20:57:39] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[20:57:39] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.3.1
+[20:57:39] [Server thread/INFO]: [Graves] Loading server plugin Graves v4.9.7
+[20:57:39] [Server thread/INFO]: [TabTPS] Loading server plugin TabTPS v1.3.26
+[20:57:39] [Server thread/INFO]: [CompassPlayerLocalizer_Alpha] Loading server plugin CompassPlayerLocalizer_Alpha v0.1
+[20:57:39] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:57:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:57:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:57:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:57:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:57:39] [Server thread/INFO]: Preparing level "world"
+[20:57:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:57:40] [Server thread/INFO]: Preparing spawn area: 0%
+[20:57:40] [Server thread/INFO]: Preparing spawn area: 2%
+[20:57:41] [Server thread/INFO]: Preparing spawn area: 12%
+[20:57:41] [Server thread/INFO]: Time elapsed: 1126 ms
+[20:57:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:57:41] [Server thread/INFO]: Preparing spawn area: 0%
+[20:57:41] [Server thread/INFO]: Time elapsed: 306 ms
+[20:57:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:57:41] [Server thread/INFO]: Preparing spawn area: 0%
+[20:57:41] [Server thread/INFO]: Time elapsed: 143 ms
+[20:57:41] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.3.1
+[20:57:41] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.4 (769)
+[20:57:42] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.3.1
+[20:57:42] [Server thread/INFO]: [Graves] Enabling Graves v4.9.7
+[20:57:42] [Server thread/INFO]: [Graves] Integration: Hooked into MiniMessage.
+[20:57:42] [Server thread/INFO]: [TabTPS] Enabling TabTPS v1.3.26
+[20:57:43] [Server thread/INFO]: [CompassPlayerLocalizer_Alpha] Enabling CompassPlayerLocalizer_Alpha v0.1
+[20:57:43] [Server thread/INFO]: [CompassPlayerLocalizer_Alpha] Iniciando Plugin CompassPlayerLocalizer
+[20:57:43] [Server thread/INFO]: [spark] Starting background profiler...
+[20:57:44] [Server thread/INFO]: Done preparing level "world" (4.237s)
+[20:57:44] [Server thread/INFO]: Running delayed init tasks
+[20:57:44] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[20:57:44] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.3.2, you're on: 5.3.1
+[20:57:44] [Server thread/INFO]: Done (18.360s)! For help, type "help"
+[20:58:31] [Server thread/INFO]: Stopping the server
+[20:58:31] [Server thread/INFO]: Stopping server
+[20:58:31] [Server thread/INFO]: [CompassPlayerLocalizer_Alpha] Disabling CompassPlayerLocalizer_Alpha v0.1
+[20:58:31] [Server thread/INFO]: [CompassPlayerLocalizer_Alpha] Inhabilitando Plugin CompassPlayerLocalizer
+[20:58:31] [Server thread/INFO]: [TabTPS] Disabling TabTPS v1.3.26
+[20:58:31] [Server thread/INFO]: [Graves] Disabling Graves v4.9.7
+[20:58:31] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.3.1
+[20:58:31] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.1
+[20:58:31] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[20:58:31] [Server thread/INFO]: Saving players
+[20:58:32] [Server thread/INFO]: Saving worlds
+[20:58:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:58:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[20:58:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[20:58:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[20:58:32] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world' in 0.31s
+[20:58:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[20:58:32] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[20:58:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[20:58:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[20:58:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[20:58:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[20:58:32] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.13s
+[20:58:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[20:58:32] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[20:58:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[20:58:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[20:58:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[20:58:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[20:58:32] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.05s
+[20:58:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[20:58:32] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[20:58:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:58:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:58:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:58:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:58:32] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[20:58:32] [Server thread/INFO]: All I/O tasks to complete
+[20:58:32] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[20:58:32] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
