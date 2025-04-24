@@ -109,3 +109,7 @@ D<--[HERE]
 [22:13:27] [Server thread/INFO]: [Not Secure] [Server] daniel gai
 [22:32:21] [Server thread/INFO]: KedZoka has made the advancement [Not Today, Thank You]
 [22:46:00] [Server thread/INFO]: [Not Secure] [Server] daniel gai
+[23:00:50] [Server thread/INFO]: Villager Villager['Villager'/443, uuid='210a7abc-10ec-4ac4-ad0e-c63edc4a8a94', l='ServerLevel[world]', x=-1121.70, y=82.00, z=-470.70, cpos=[-71, -30], tl=35854, v=true] died, message: 'Villager was slain by Zombie'
+[23:00:57] [Server thread/INFO]: Villager Villager['Mason'/444, uuid='b1553895-f0ae-456c-bc87-07afacf92d58', l='ServerLevel[world]', x=-1121.70, y=82.00, z=-470.70, cpos=[-71, -30], tl=35996, v=true] died, message: 'Mason was slain by Zombie'
+[23:01:14] [Server thread/INFO]: [Not Secure] [Server] xD
+[23:06:32] [Server thread/INFO]: [Not Secure] [Server] XD
