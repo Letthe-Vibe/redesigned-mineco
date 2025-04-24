@@ -85,3 +85,14 @@
 [20:25:19] [User Authenticator #0/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
 [20:25:21] [Server thread/INFO]: monedas joined the game
 [20:25:21] [Server thread/INFO]: monedas[/127.207.114.104:57765] logged in with entity id 92 at ([world]-1189.9736206778607, 69.0, -809.2730170103304)
+[20:31:50] [User Authenticator #1/INFO]: UUID of player KedZoka is af334b6e-99af-345f-bdef-5e86f82e3ded
+[20:31:51] [Server thread/INFO]: KedZoka joined the game
+[20:31:51] [Server thread/INFO]: KedZoka[/127.212.225.52:46911] logged in with entity id 1605 at ([world]-1168.4249255730708, 69.0, -828.3609546037403)
+[20:31:55] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:32:16] [Server thread/INFO]: [Not Secure] [Server] xdd
+[20:40:48] [Server thread/INFO]: [Not Secure] [Server] xdd
+[20:40:58] [Server thread/INFO]: KedZoka lost connection: Disconnected
+[20:40:58] [Server thread/INFO]: KedZoka left the game
+[20:41:08] [User Authenticator #2/INFO]: UUID of player KedZoka is af334b6e-99af-345f-bdef-5e86f82e3ded
+[20:41:09] [Server thread/INFO]: KedZoka joined the game
+[20:41:09] [Server thread/INFO]: KedZoka[/127.212.225.52:39631] logged in with entity id 2986 at ([world]-1190.6914443677178, 69.0, -809.49546293997)
