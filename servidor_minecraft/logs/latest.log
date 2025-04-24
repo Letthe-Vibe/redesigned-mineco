@@ -98,3 +98,10 @@ sat x<--[HERE]
 D<--[HERE]
 [21:52:58] [Server thread/INFO]: [Not Secure] [Server] xD
 [21:56:21] [Server thread/INFO]: [Not Secure] [Server] XD
+[21:56:39] [Server thread/INFO]: Villager Villager['Villager'/180, uuid='809cc184-ba94-4e23-acd8-1fba1b6f7262', l='ServerLevel[world]', x=-1211.69, y=81.00, z=-725.31, cpos=[-76, -46], tl=48179, v=true] died, message: 'Villager was slain by Zombie'
+[22:02:08] [Server thread/INFO]: monedas lost connection: Timed out
+[22:02:08] [Server thread/INFO]: monedas left the game
+[22:02:09] [Server thread/INFO]: [Not Secure] [Server] xd
+[22:02:13] [User Authenticator #1/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
+[22:02:14] [Server thread/INFO]: monedas joined the game
+[22:02:14] [Server thread/INFO]: monedas[/127.207.114.104:58163] logged in with entity id 6468 at ([world]-1179.3232675896406, 69.0, -830.0049211434692)
