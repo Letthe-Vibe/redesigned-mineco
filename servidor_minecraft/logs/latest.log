@@ -40,3 +40,74 @@
 [00:11:59] [Async Chat Thread - #47/INFO]: [Not Secure] <KedZoka> mk XD
 [00:12:08] [Async Chat Thread - #47/INFO]: [Not Secure] <KedZoka> vamos
 [00:12:18] [Async Chat Thread - #47/INFO]: [Not Secure] <monedas> sis
+[00:12:44] [Async Chat Thread - #47/INFO]: [Not Secure] <KedZoka> 500 bloques
+[00:14:47] [Async Chat Thread - #49/INFO]: [Not Secure] <KedZoka> trajo comida?
+[00:14:53] [Async Chat Thread - #49/INFO]: [Not Secure] <monedas> no
+[00:14:56] [Async Chat Thread - #49/INFO]: [Not Secure] <monedas> wa
+[00:14:57] [Async Chat Thread - #49/INFO]: [Not Secure] <KedZoka> xd
+[00:16:19] [Server thread/INFO]: KedZoka was blown up by Ghast
+[00:16:27] [Async Chat Thread - #51/INFO]: [Not Secure] <KedZoka> ptm
+[00:17:01] [Async Chat Thread - #51/INFO]: [Not Secure] <monedas> cd lo mato y se fue
+[00:17:08] [Async Chat Thread - #51/INFO]: [Not Secure] <KedZoka> xd ya llego
+[00:17:54] [Async Chat Thread - #51/INFO]: [Not Secure] <KedZoka> ud tiene obsidiana?
+[00:18:01] [Async Chat Thread - #51/INFO]: [Not Secure] <monedas> nop
+[00:18:15] [Async Chat Thread - #51/INFO]: [Not Secure] <monedas> no se le olvide traer comida
+[00:18:20] [Async Chat Thread - #51/INFO]: [Not Secure] <KedZoka> sis
+[00:20:15] [Async Chat Thread - #53/INFO]: [Not Secure] <KedZoka> sus coords
+[00:21:08] [Async Chat Thread - #53/INFO]: [Not Secure] <KedZoka> coordenadas
+[00:23:11] [Async Chat Thread - #55/INFO]: [Not Secure] <KedZoka> sera que si apago el server se parra el contador? xd
+[00:23:18] [Async Chat Thread - #55/INFO]: [Not Secure] <KedZoka> porq me toca irme
+[00:23:32] [Async Chat Thread - #55/INFO]: [Not Secure] <monedas> no se mi pex
+[00:23:38] [Async Chat Thread - #55/INFO]: [Not Secure] <monedas> hay si ni idea
+[00:23:55] [Server thread/INFO]: Unknown or incomplete command, see below for error
+pues toca a la suerte lo voy a apagar rya pongase seguro<--[HERE]
+[00:24:07] [Async Chat Thread - #55/INFO]: [Not Secure] <KedZoka> toca a la suerte lo voy a apagar
+[00:24:11] [Async Chat Thread - #55/INFO]: [Not Secure] <KedZoka> pongase seguro
+[00:24:22] [Async Chat Thread - #55/INFO]: [Not Secure] <monedas> hagale pex
+[00:24:27] [Async Chat Thread - #55/INFO]: [Not Secure] <KedZoka> bai
+[00:24:28] [Async Chat Thread - #55/INFO]: [Not Secure] <monedas> bay
+[00:24:30] [Server thread/INFO]: monedas lost connection: Disconnected
+[00:24:30] [Server thread/INFO]: monedas left the game
+[00:24:45] [Server thread/INFO]: KedZoka lost connection: Disconnected
+[00:24:45] [Server thread/INFO]: KedZoka left the game
+[00:24:53] [Server thread/INFO]: Stopping the server
+[00:24:54] [Server thread/INFO]: Stopping server
+[00:24:54] [Server thread/INFO]: [CompassPlayerLocalizer_Alpha] Disabling CompassPlayerLocalizer_Alpha v0.1
+[00:24:54] [Server thread/INFO]: [CompassPlayerLocalizer_Alpha] Inhabilitando Plugin CompassPlayerLocalizer
+[00:24:54] [Server thread/INFO]: [TabTPS] Disabling TabTPS v1.3.26
+[00:24:54] [Server thread/INFO]: [Graves] Disabling Graves v4.9.7
+[00:24:54] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.2
+[00:24:54] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.3.1
+[00:24:54] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.1
+[00:24:54] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[00:24:54] [Server thread/INFO]: Saving players
+[00:24:54] [Server thread/INFO]: Saving worlds
+[00:24:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:24:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[00:24:54] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[00:24:54] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[00:24:54] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 25 entity chunks, 0 poi chunks in world 'world' in 0.01s
+[00:24:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[00:24:54] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[00:24:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:24:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[00:24:54] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[00:24:54] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[00:24:54] [Server thread/INFO]: [ChunkHolderManager] Saved 19 block chunks, 74 entity chunks, 0 poi chunks in world 'world_nether' in 0.09s
+[00:24:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[00:24:54] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[00:24:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:24:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[00:24:54] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[00:24:54] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[00:24:54] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[00:24:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[00:24:54] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[00:24:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:24:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:24:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:24:54] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:24:54] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[00:24:54] [Server thread/INFO]: All I/O tasks to complete
+[00:24:54] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[00:24:54] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
