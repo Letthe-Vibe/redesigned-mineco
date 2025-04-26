@@ -349,3 +349,63 @@ say<--[HERE]
 [23:12:27] [Async Chat Thread - #77/INFO]: [Not Secure] <monedas> de nether
 [23:12:34] [Async Chat Thread - #77/INFO]: [Not Secure] <monedas> lsito ya vaaa
 [23:12:36] [Async Chat Thread - #77/INFO]: [Not Secure] <KedZoka> por atras del portal esta el bioma
+[23:17:01] [Async Chat Thread - #79/INFO]: [Not Secure] <monedas> meeen
+[23:17:09] [Async Chat Thread - #79/INFO]: [Not Secure] <KedZoka> diga
+[23:17:12] [Async Chat Thread - #79/INFO]: [Not Secure] <monedas> solo hay de eso que tiene como venas
+[23:17:20] [Async Chat Thread - #79/INFO]: [Not Secure] <KedZoka> es esa madera
+[23:17:29] [Async Chat Thread - #79/INFO]: [Not Secure] <monedas> wa
+[23:17:33] [Async Chat Thread - #79/INFO]: [Not Secure] <KedZoka> morada con venas rojas
+[23:17:34] [Async Chat Thread - #79/INFO]: [Not Secure] <monedas> xd
+[23:22:57] [Async Chat Thread - #81/INFO]: [Not Secure] <monedas> necesita mas
+[23:23:06] [Async Chat Thread - #81/INFO]: [Not Secure] <KedZoka> asi esta bien gracias
+[23:23:13] [Async Chat Thread - #81/INFO]: [Not Secure] <monedas> esooo siuuu
+[23:24:38] [Async Chat Thread - #83/INFO]: [Not Secure] <KedZoka> me toca salirme un rato bro
+[23:24:46] [Async Chat Thread - #83/INFO]: [Not Secure] <monedas> ssssssssssssssss
+[23:25:05] [Async Chat Thread - #84/INFO]: [Not Secure] <KedZoka> jugamos ahorita si algo chao
+[23:25:14] [Async Chat Thread - #84/INFO]: [Not Secure] <monedas> hagale
+[23:25:18] [Async Chat Thread - #84/INFO]: [Not Secure] <monedas> bye
+[23:25:20] [Server thread/INFO]: monedas lost connection: Disconnected
+[23:25:20] [Server thread/INFO]: monedas left the game
+[23:25:33] [Server thread/INFO]: KedZoka lost connection: Disconnected
+[23:25:33] [Server thread/INFO]: KedZoka left the game
+[23:25:41] [Server thread/INFO]: Stopping the server
+[23:25:41] [Server thread/INFO]: Stopping server
+[23:25:41] [Server thread/INFO]: [CompassPlayerLocalizer_Alpha] Disabling CompassPlayerLocalizer_Alpha v0.1
+[23:25:41] [Server thread/INFO]: [CompassPlayerLocalizer_Alpha] Inhabilitando Plugin CompassPlayerLocalizer
+[23:25:41] [Server thread/INFO]: [TabTPS] Disabling TabTPS v1.3.26
+[23:25:41] [Server thread/INFO]: [Graves] Disabling Graves v4.9.7
+[23:25:41] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.2
+[23:25:41] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.3.1
+[23:25:41] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.1
+[23:25:41] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[23:25:41] [Server thread/INFO]: Saving players
+[23:25:41] [Server thread/INFO]: Saving worlds
+[23:25:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:25:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[23:25:41] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[23:25:41] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[23:25:41] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 25 entity chunks, 0 poi chunks in world 'world' in 0.02s
+[23:25:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[23:25:41] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[23:25:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[23:25:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[23:25:41] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[23:25:41] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[23:25:41] [Server thread/INFO]: [ChunkHolderManager] Saved 14 block chunks, 106 entity chunks, 0 poi chunks in world 'world_nether' in 0.04s
+[23:25:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[23:25:41] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[23:25:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[23:25:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[23:25:41] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[23:25:41] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[23:25:41] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[23:25:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[23:25:41] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[23:25:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:25:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:25:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:25:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:25:41] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[23:25:41] [Server thread/INFO]: All I/O tasks to complete
+[23:25:41] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[23:25:41] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
