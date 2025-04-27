@@ -91,3 +91,11 @@
 [01:01:45] [Server thread/INFO]: [Not Secure] [Server] xd
 [01:09:54] [Server thread/INFO]: [Not Secure] [Server] xd
 [01:15:01] [Server thread/INFO]: Villager Villager['Weaponsmith'/127, uuid='98cbf200-5eb3-44b4-a1a6-f7ed53e33d58', l='ServerLevel[world]', x=-1168.70, y=69.00, z=-826.52, cpos=[-74, -52], tl=45626, v=true] died, message: 'Weaponsmith was slain by Zombie'
+[01:37:21] [Server thread/INFO]: Villager Villager['Farmer'/140, uuid='7a904f24-b8b6-42e9-a13e-81ad91a45655', l='ServerLevel[world]', x=-1189.31, y=69.00, z=-835.33, cpos=[-75, -53], tl=72426, v=true] died, message: 'Farmer was slain by Zombie'
+[01:39:22] [Server thread/INFO]: Villager Villager['Weaponsmith'/200, uuid='69f8fc89-2681-4042-aec1-ad1d7b79ba7a', l='ServerLevel[world]', x=-1270.30, y=65.00, z=-766.06, cpos=[-80, -48], tl=74808, v=true] died, message: 'Weaponsmith was slain by Zombie'
+[01:43:56] [User Authenticator #1/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
+[01:43:57] [Server thread/INFO]: monedas lost connection: You logged in from another location
+[01:43:57] [Server thread/INFO]: monedas left the game
+[01:43:58] [Server thread/INFO]: monedas joined the game
+[01:43:58] [Server thread/INFO]: monedas[/127.207.114.104:42275] logged in with entity id 10581 at ([world]-1247.1419860029448, 63.0, -825.1748295124034)
+[01:45:33] [Server thread/INFO]: monedas was slain by Enderman
