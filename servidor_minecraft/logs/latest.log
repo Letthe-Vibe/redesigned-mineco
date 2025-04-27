@@ -89,3 +89,5 @@
 [00:37:31] [Server thread/INFO]: KedZoka joined the game
 [00:37:31] [Server thread/INFO]: KedZoka[/127.212.225.52:39473] logged in with entity id 580 at ([world]-1177.437748294712, 69.0, -819.1946507099096)
 [01:01:45] [Server thread/INFO]: [Not Secure] [Server] xd
+[01:09:54] [Server thread/INFO]: [Not Secure] [Server] xd
+[01:15:01] [Server thread/INFO]: Villager Villager['Weaponsmith'/127, uuid='98cbf200-5eb3-44b4-a1a6-f7ed53e33d58', l='ServerLevel[world]', x=-1168.70, y=69.00, z=-826.52, cpos=[-74, -52], tl=45626, v=true] died, message: 'Weaponsmith was slain by Zombie'
