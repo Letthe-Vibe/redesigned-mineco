@@ -110,3 +110,11 @@
 [01:54:44] [User Authenticator #3/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
 [01:54:45] [Server thread/INFO]: monedas joined the game
 [01:54:45] [Server thread/INFO]: monedas[/127.207.114.104:40043] logged in with entity id 12244 at ([world]-1220.477690691379, 80.0, -670.7014061070677)
+[01:58:50] [Async Chat Thread - #4/INFO]: [Not Secure] <KedZoka> a mimir
+[02:00:51] [Async Chat Thread - #5/INFO]: [Not Secure] <monedas> quepasooo
+[02:05:14] [Server thread/INFO]: monedas was slain by Zombie Villager
+[02:05:31] [Server thread/INFO]: monedas lost connection: Timed out
+[02:05:31] [Server thread/INFO]: monedas left the game
+[02:05:38] [User Authenticator #4/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
+[02:05:39] [Server thread/INFO]: monedas joined the game
+[02:05:39] [Server thread/INFO]: monedas[/127.207.114.104:57033] logged in with entity id 14171 at ([world]-1218.588926752455, 71.0, -694.6999999880791)
