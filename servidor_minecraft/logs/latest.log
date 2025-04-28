@@ -130,3 +130,24 @@
 [19:59:04] [User Authenticator #5/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
 [19:59:06] [Server thread/INFO]: monedas joined the game
 [19:59:06] [Server thread/INFO]: monedas[/127.195.185.249:38999] logged in with entity id 18298 at ([world]-1119.5658123563355, 83.0, -468.297573037474)
+[20:02:49] [Server thread/INFO]: monedas lost connection: Timed out
+[20:02:49] [Server thread/INFO]: monedas left the game
+[20:04:05] [User Authenticator #6/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
+[20:04:06] [Server thread/INFO]: monedas joined the game
+[20:04:06] [Server thread/INFO]: monedas[/127.195.185.249:49233] logged in with entity id 19905 at ([world]-1095.699999988079, 11.0, -452.20782343600075)
+[20:05:34] [Server thread/INFO]: KedZoka lost connection: Disconnected
+[20:05:34] [Server thread/INFO]: KedZoka left the game
+[20:05:38] [User Authenticator #7/INFO]: UUID of player KedZoka is af334b6e-99af-345f-bdef-5e86f82e3ded
+[20:05:38] [Server thread/INFO]: KedZoka joined the game
+[20:05:38] [Server thread/INFO]: KedZoka[/127.212.225.52:43003] logged in with entity id 20652 at ([world]-1139.9986533972965, 65.0, -981.0680753752665)
+[20:05:58] [User Authenticator #7/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
+[20:05:58] [Server thread/INFO]: monedas lost connection: You logged in from another location
+[20:05:58] [Server thread/INFO]: monedas left the game
+[20:05:59] [Server thread/INFO]: monedas joined the game
+[20:05:59] [Server thread/INFO]: monedas[/127.195.185.249:50285] logged in with entity id 20838 at ([world]-1164.3856894101275, 76.0, -395.2195057753536)
+[20:10:28] [Async Chat Thread - #12/INFO]: [Not Secure] <KedZoka> -1150 -933
+[20:11:53] [Server thread/INFO]: monedas lost connection: Disconnected
+[20:11:53] [Server thread/INFO]: monedas left the game
+[20:12:02] [User Authenticator #8/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
+[20:12:02] [Server thread/INFO]: monedas joined the game
+[20:12:02] [Server thread/INFO]: monedas[/127.195.185.249:56879] logged in with entity id 23362 at ([world]-1220.4023300395752, 92.30646617501208, -303.304143561434)
