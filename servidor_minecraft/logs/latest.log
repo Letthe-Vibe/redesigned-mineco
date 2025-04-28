@@ -1,178 +1,102 @@
-[18:10:42] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1026-azure (amd64)
-[18:10:42] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-224-main@0cf7315 (2025-04-07T12:01:39Z) for Minecraft 1.21.4
-[18:10:42] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[18:10:42] [ServerMain/INFO]: [PluginInitializerManager] Initialized 6 plugins
-[18:10:42] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (6):
+[21:48:47] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1026-azure (amd64)
+[21:48:47] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-224-main@0cf7315 (2025-04-07T12:01:39Z) for Minecraft 1.21.4
+[21:48:47] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[21:48:48] [ServerMain/INFO]: [PluginInitializerManager] Initialized 6 plugins
+[21:48:48] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (6):
  - CompassPlayerLocalizer_Alpha (0.1), Graves (4.9.7), SkinsRestorer (15.6.2), TabTPS (1.3.26), ViaBackwards (5.3.1), ViaVersion (5.3.1)
-[18:10:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:10:50] [ServerMain/INFO]: Loaded 1370 recipes
-[18:10:50] [ServerMain/INFO]: Loaded 1481 advancements
-[18:10:50] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[18:10:51] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 220.7ms
-[18:10:51] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[18:10:51] [Server thread/INFO]: Loading properties
-[18:10:51] [Server thread/INFO]: This server is running Paper version 1.21.4-224-main@0cf7315 (2025-04-07T12:01:39Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
-[18:10:51] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[18:10:51] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:10:51] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:10:52] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[18:10:52] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[18:10:52] [Server thread/INFO]: Default game type: SURVIVAL
-[18:10:52] [Server thread/INFO]: Generating keypair
-[18:10:52] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:10:52] [Server thread/INFO]: Using epoll channel type
-[18:10:52] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[18:10:52] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[18:10:53] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.3.1
-[18:10:53] [Server thread/INFO]: [ViaVersion] ViaVersion 5.3.1 is now loaded. Registering protocol transformers and injecting...
-[18:10:53] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[18:10:53] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[18:10:54] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[18:10:54] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[18:10:54] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.3.1
-[18:10:54] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.2
-[18:10:54] [Server thread/INFO]: [Graves] Loading server plugin Graves v4.9.7
-[18:10:54] [Server thread/INFO]: [TabTPS] Loading server plugin TabTPS v1.3.26
-[18:10:54] [Server thread/INFO]: [CompassPlayerLocalizer_Alpha] Loading server plugin CompassPlayerLocalizer_Alpha v0.1
-[18:10:54] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:10:54] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.2
-[18:10:55] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[18:10:55] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
-[18:10:56] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[18:10:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:10:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:10:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:10:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:10:56] [Server thread/INFO]: Preparing level "world"
-[18:10:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:10:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[18:10:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[18:10:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[18:10:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[18:10:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[18:10:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:10:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.2
-[18:10:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7bda5de
-[18:10:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[18:10:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:10:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[18:10:56] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[18:10:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:10:56] [Server thread/INFO]: Preparing spawn area: 0%
-[18:10:57] [Server thread/INFO]: Preparing spawn area: 2%
-[18:10:57] [Server thread/INFO]: Preparing spawn area: 28%
-[18:10:57] [Server thread/INFO]: Time elapsed: 1005 ms
-[18:10:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[18:10:57] [Server thread/INFO]: Preparing spawn area: 0%
-[18:10:57] [Server thread/INFO]: Time elapsed: 278 ms
-[18:10:57] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[18:10:57] [Server thread/INFO]: Preparing spawn area: 0%
-[18:10:57] [Server thread/INFO]: Time elapsed: 145 ms
-[18:10:57] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.3.1
-[18:10:58] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.4 (769)
-[18:10:58] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.3.1
-[18:10:58] [Server thread/INFO]: [Graves] Enabling Graves v4.9.7
-[18:10:58] [Server thread/INFO]: [Graves] Integration: Hooked into MiniMessage.
-[18:10:58] [Server thread/INFO]: [TabTPS] Enabling TabTPS v1.3.26
-[18:10:59] [Server thread/INFO]: [CompassPlayerLocalizer_Alpha] Enabling CompassPlayerLocalizer_Alpha v0.1
-[18:10:59] [Server thread/INFO]: [CompassPlayerLocalizer_Alpha] Iniciando Plugin CompassPlayerLocalizer
-[18:10:59] [Server thread/INFO]: [spark] Starting background profiler...
-[18:11:00] [Server thread/INFO]: Done preparing level "world" (3.994s)
-[18:11:00] [Server thread/INFO]: Running delayed init tasks
-[18:11:00] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[18:11:00] [Server thread/INFO]: Done (18.740s)! For help, type "help"
-[18:11:00] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.3.2, you're on: 5.3.1
-[18:11:00] [Craft Scheduler Thread - 0 - TabTPS/INFO]: [TabTPS] There is an update available for TabTPS!
-[18:11:00] [Craft Scheduler Thread - 0 - TabTPS/INFO]: [TabTPS] This server is running version v1.3.26, which is 1 versions outdated.
-[18:11:00] [Craft Scheduler Thread - 0 - TabTPS/INFO]: [TabTPS] Download the latest version, v1.3.27 from GitHub at the link below:
-[18:11:00] [Craft Scheduler Thread - 0 - TabTPS/INFO]: [TabTPS] https://github.com/jpenilla/TabTPS/releases/tag/v1.3.27
-[18:11:26] [User Authenticator #0/INFO]: UUID of player KedZoka is af334b6e-99af-345f-bdef-5e86f82e3ded
-[18:11:27] [Server thread/INFO]: KedZoka joined the game
-[18:11:27] [Server thread/INFO]: KedZoka[/127.212.225.52:35305] logged in with entity id 22 at ([world]-1098.6037124592601, 5.0, -458.2708459465325)
-[18:17:05] [Server thread/INFO]: [Not Secure] [Server] brutal
-[18:17:32] [Server thread/INFO]: KedZoka was slain by Zombie
-[18:23:51] [Server thread/INFO]: [Not Secure] [Server] xd
-[18:27:42] [Server thread/INFO]: [Not Secure] [Server] brutal
-[18:33:43] [Server thread/INFO]: [Not Secure] [Server] waus
-[18:47:50] [Server thread/INFO]: [Not Secure] [Server] xd
-[18:49:00] [Server thread/INFO]: Villager Villager['Villager'/25, uuid='2e0d661a-6bf5-4cd0-bc85-bb2c1673cff5', l='ServerLevel[world]', x=-1064.30, y=63.00, z=-485.51, cpos=[-67, -31], tl=42945, v=true] died, message: 'Villager was slain by Zombie'
-[19:03:04] [Server thread/INFO]: [Not Secure] [Server] xd
-[19:07:54] [User Authenticator #1/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
-[19:07:56] [Server thread/INFO]: monedas joined the game
-[19:07:56] [Server thread/INFO]: monedas[/127.195.185.249:42887] logged in with entity id 8335 at ([world]-1107.0796903139349, -46.0, -530.0522450573835)
-[19:09:05] [Server thread/INFO]: monedas was slain by Zombie
-[19:09:44] [Server thread/INFO]: monedas lost connection: Timed out
-[19:09:44] [Server thread/INFO]: monedas left the game
-[19:09:58] [User Authenticator #2/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
-[19:09:59] [Server thread/INFO]: monedas joined the game
-[19:09:59] [Server thread/INFO]: monedas[/127.195.185.249:37945] logged in with entity id 8787 at ([world]-1217.917394351946, 12.06500318029966, -723.9674198260593)
-[19:14:52] [Async Chat Thread - #7/INFO]: [Not Secure] <monedas> t
-[19:17:24] [Server thread/INFO]: monedas was blown up by Creeper
-[19:17:56] [Async Chat Thread - #8/INFO]: [Not Secure] <KedZoka> -1179 -450
-[19:20:34] [Server thread/INFO]: monedas burned to death
-[19:21:14] [Server thread/INFO]: [Not Secure] [Server] brutal
-[19:25:46] [Server thread/INFO]: [Not Secure] [Server] XD
-[19:51:37] [Server thread/INFO]: monedas lost connection: Timed out
-[19:51:37] [Server thread/INFO]: monedas left the game
-[19:51:38] [User Authenticator #3/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
-[19:51:40] [Server thread/INFO]: monedas joined the game
-[19:51:40] [Server thread/INFO]: monedas[/127.195.185.249:39673] logged in with entity id 15931 at ([world]-1095.7658448317268, 5.0, -458.7782335375908)
-[19:53:04] [Server thread/INFO]: Villager Villager['Villager'/53, uuid='919a1012-84c8-40c7-9b48-f04f824e983d', l='ServerLevel[world]', x=-1058.43, y=62.56, z=-470.23, cpos=[-67, -30], tl=94960, v=true] died, message: 'Villager was slain by Drowned'
-[19:53:21] [Server thread/INFO]: Villager Villager['Cartographer'/84, uuid='0def1ba9-69b9-400f-ba2b-4e30490dccc2', l='ServerLevel[world]', x=-1091.30, y=62.94, z=-448.50, cpos=[-69, -29], tl=94237, v=true] died, message: 'Cartographer was slain by Zombie'
-[19:53:42] [Server thread/INFO]: KedZoka fell from a high place
-[19:54:14] [Server thread/INFO]: monedas lost connection: Disconnected
-[19:54:14] [Server thread/INFO]: monedas left the game
-[19:54:23] [User Authenticator #4/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
-[19:54:24] [Server thread/INFO]: monedas joined the game
-[19:54:24] [Server thread/INFO]: monedas[/127.195.185.249:41851] logged in with entity id 16538 at ([world]-1094.4655279465119, 5.0, -454.8960784739103)
-[19:58:56] [Server thread/INFO]: monedas lost connection: Disconnected
-[19:58:56] [Server thread/INFO]: monedas left the game
-[19:59:04] [User Authenticator #5/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
-[19:59:06] [Server thread/INFO]: monedas joined the game
-[19:59:06] [Server thread/INFO]: monedas[/127.195.185.249:38999] logged in with entity id 18298 at ([world]-1119.5658123563355, 83.0, -468.297573037474)
-[20:02:49] [Server thread/INFO]: monedas lost connection: Timed out
-[20:02:49] [Server thread/INFO]: monedas left the game
-[20:04:05] [User Authenticator #6/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
-[20:04:06] [Server thread/INFO]: monedas joined the game
-[20:04:06] [Server thread/INFO]: monedas[/127.195.185.249:49233] logged in with entity id 19905 at ([world]-1095.699999988079, 11.0, -452.20782343600075)
-[20:05:34] [Server thread/INFO]: KedZoka lost connection: Disconnected
-[20:05:34] [Server thread/INFO]: KedZoka left the game
-[20:05:38] [User Authenticator #7/INFO]: UUID of player KedZoka is af334b6e-99af-345f-bdef-5e86f82e3ded
-[20:05:38] [Server thread/INFO]: KedZoka joined the game
-[20:05:38] [Server thread/INFO]: KedZoka[/127.212.225.52:43003] logged in with entity id 20652 at ([world]-1139.9986533972965, 65.0, -981.0680753752665)
-[20:05:58] [User Authenticator #7/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
-[20:05:58] [Server thread/INFO]: monedas lost connection: You logged in from another location
-[20:05:58] [Server thread/INFO]: monedas left the game
-[20:05:59] [Server thread/INFO]: monedas joined the game
-[20:05:59] [Server thread/INFO]: monedas[/127.195.185.249:50285] logged in with entity id 20838 at ([world]-1164.3856894101275, 76.0, -395.2195057753536)
-[20:10:28] [Async Chat Thread - #12/INFO]: [Not Secure] <KedZoka> -1150 -933
-[20:11:53] [Server thread/INFO]: monedas lost connection: Disconnected
-[20:11:53] [Server thread/INFO]: monedas left the game
-[20:12:02] [User Authenticator #8/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
-[20:12:02] [Server thread/INFO]: monedas joined the game
-[20:12:02] [Server thread/INFO]: monedas[/127.195.185.249:56879] logged in with entity id 23362 at ([world]-1220.4023300395752, 92.30646617501208, -303.304143561434)
-[20:20:39] [Server thread/INFO]: monedas lost connection: Timed out
-[20:20:39] [Server thread/INFO]: monedas left the game
-[20:21:13] [User Authenticator #9/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
-[20:21:15] [Server thread/INFO]: monedas joined the game
-[20:21:15] [Server thread/INFO]: monedas[/127.195.185.249:41021] logged in with entity id 26349 at ([world]-1081.9868967764992, 8.0, -458.72523177238105)
-[20:27:29] [User Authenticator #10/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
-[20:27:29] [Server thread/INFO]: monedas lost connection: You logged in from another location
-[20:27:29] [Server thread/INFO]: monedas left the game
-[20:27:30] [Server thread/INFO]: monedas joined the game
-[20:27:30] [Server thread/INFO]: monedas[/127.195.185.249:35439] logged in with entity id 27173 at ([world]-1073.5000619398638, 8.0, -460.4695711942362)
-[20:44:21] [Server thread/INFO]: Villager Villager['Villager'/1533, uuid='58390dce-e849-4636-9587-cde0ae81e65f', l='ServerLevel[world]', x=-1120.54, y=66.00, z=-487.72, cpos=[-71, -31], tl=146286, v=true] died, message: 'Villager was slain by Zombie'
-[20:44:32] [User Authenticator #11/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
-[20:44:32] [Server thread/INFO]: monedas lost connection: You logged in from another location
-[20:44:32] [Server thread/INFO]: monedas left the game
-[20:44:33] [Server thread/INFO]: monedas joined the game
-[20:44:33] [Server thread/INFO]: monedas[/127.195.185.249:53313] logged in with entity id 29337 at ([world]-1083.5284515111434, 8.0, -454.66410336482005)
-[20:47:19] [Server thread/INFO]: monedas lost connection: Timed out
-[20:47:19] [Server thread/INFO]: monedas left the game
-[20:47:19] [User Authenticator #12/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
-[20:47:20] [Server thread/INFO]: monedas joined the game
-[20:47:20] [Server thread/INFO]: monedas[/127.195.185.249:41815] logged in with entity id 29662 at ([world]-1086.187778950413, 8.0, -453.0532435000791)
-[20:57:34] [Server thread/INFO]: [Not Secure] [Server] xd
-[21:09:02] [Server thread/INFO]: Villager Villager['Villager'/1585, uuid='8bd01d06-a1d1-4c54-a659-47a98a1e274f', l='ServerLevel[world]', x=-1359.16, y=61.05, z=-418.30, cpos=[-85, -27], tl=27843, v=true] died, message: 'Villager drowned'
-[21:13:14] [Server thread/INFO]: [Not Secure] [Server] 2 minutos
-[21:17:10] [Server thread/INFO]: [Not Secure] [Server] xdd
+[21:48:54] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:48:57] [ServerMain/INFO]: Loaded 1370 recipes
+[21:48:57] [ServerMain/INFO]: Loaded 1481 advancements
+[21:48:57] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[21:48:57] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 232.6ms
+[21:48:57] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[21:48:57] [Server thread/INFO]: Loading properties
+[21:48:57] [Server thread/INFO]: This server is running Paper version 1.21.4-224-main@0cf7315 (2025-04-07T12:01:39Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
+[21:48:57] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[21:48:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:48:57] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:48:58] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[21:48:58] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[21:48:59] [Server thread/INFO]: Default game type: SURVIVAL
+[21:48:59] [Server thread/INFO]: Generating keypair
+[21:48:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:48:59] [Server thread/INFO]: Using epoll channel type
+[21:48:59] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:48:59] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[21:49:01] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.3.1
+[21:49:01] [Server thread/INFO]: [ViaVersion] ViaVersion 5.3.1 is now loaded. Registering protocol transformers and injecting...
+[21:49:02] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[21:49:02] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[21:49:03] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[21:49:03] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[21:49:04] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.3.1
+[21:49:04] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.2
+[21:49:04] [Server thread/INFO]: [Graves] Loading server plugin Graves v4.9.7
+[21:49:04] [Server thread/INFO]: [TabTPS] Loading server plugin TabTPS v1.3.26
+[21:49:04] [Server thread/INFO]: [CompassPlayerLocalizer_Alpha] Loading server plugin CompassPlayerLocalizer_Alpha v0.1
+[21:49:04] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:49:04] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.2
+[21:49:05] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[21:49:05] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.4.
+[21:49:06] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[21:49:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:49:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:49:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:49:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:49:06] [Server thread/INFO]: Preparing level "world"
+[21:49:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:49:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[21:49:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[21:49:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[21:49:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[21:49:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[21:49:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:49:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.2
+[21:49:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 7bda5de
+[21:49:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[21:49:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[21:49:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[21:49:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[21:49:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:49:07] [Server thread/INFO]: Preparing spawn area: 0%
+[21:49:07] [Server thread/INFO]: Preparing spawn area: 2%
+[21:49:08] [Server thread/INFO]: Preparing spawn area: 28%
+[21:49:08] [Server thread/INFO]: Time elapsed: 1468 ms
+[21:49:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:49:08] [Server thread/INFO]: Preparing spawn area: 0%
+[21:49:08] [Server thread/INFO]: Time elapsed: 423 ms
+[21:49:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:49:08] [Server thread/INFO]: Preparing spawn area: 0%
+[21:49:09] [Server thread/INFO]: Time elapsed: 173 ms
+[21:49:09] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.3.1
+[21:49:09] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.4 (769)
+[21:49:09] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.3.1
+[21:49:09] [Server thread/INFO]: [Graves] Enabling Graves v4.9.7
+[21:49:09] [Server thread/INFO]: [Graves] Integration: Hooked into MiniMessage.
+[21:49:10] [Server thread/INFO]: [TabTPS] Enabling TabTPS v1.3.26
+[21:49:11] [Server thread/INFO]: [CompassPlayerLocalizer_Alpha] Enabling CompassPlayerLocalizer_Alpha v0.1
+[21:49:11] [Server thread/INFO]: [CompassPlayerLocalizer_Alpha] Iniciando Plugin CompassPlayerLocalizer
+[21:49:11] [Server thread/INFO]: [spark] Starting background profiler...
+[21:49:11] [Server thread/INFO]: Done preparing level "world" (5.579s)
+[21:49:11] [Server thread/INFO]: Running delayed init tasks
+[21:49:11] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[21:49:12] [Craft Scheduler Thread - 1 - TabTPS/INFO]: [TabTPS] There is an update available for TabTPS!
+[21:49:12] [Craft Scheduler Thread - 1 - TabTPS/INFO]: [TabTPS] This server is running version v1.3.26, which is 1 versions outdated.
+[21:49:12] [Craft Scheduler Thread - 1 - TabTPS/INFO]: [TabTPS] Download the latest version, v1.3.27 from GitHub at the link below:
+[21:49:12] [Craft Scheduler Thread - 1 - TabTPS/INFO]: [TabTPS] https://github.com/jpenilla/TabTPS/releases/tag/v1.3.27
+[21:49:12] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.3.2, you're on: 5.3.1
+[21:49:12] [Server thread/INFO]: Done (25.796s)! For help, type "help"
+[21:49:17] [User Authenticator #0/INFO]: UUID of player KedZoka is af334b6e-99af-345f-bdef-5e86f82e3ded
+[21:49:18] [Server thread/INFO]: KedZoka joined the game
+[21:49:18] [Server thread/INFO]: KedZoka[/127.212.225.52:56559] logged in with entity id 22 at ([world]-1404.4450116592934, 61.77979373029792, -466.23271887539687)
+[21:49:18] [User Authenticator #0/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
+[21:49:19] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 98dcedef-2067-41aa-903c-18021d9dbd9b, mapped to Bat['Bat'/68, uuid='98dcedef-2067-41aa-903c-18021d9dbd9b', l='ServerLevel[world]', x=-1366.27, y=65.58, z=-525.76, cpos=[-86, -33], tl=0, v=true], can't add Bat['Bat'/84, uuid='98dcedef-2067-41aa-903c-18021d9dbd9b', l='ServerLevel[world]', x=-1366.47, y=66.22, z=-528.14, cpos=[-86, -34], tl=0, v=false]
+[21:49:19] [Server thread/INFO]: monedas joined the game
+[21:49:19] [Server thread/INFO]: monedas[/127.195.185.249:52247] logged in with entity id 72 at ([world]-1093.4069566435267, 9.0, -452.4282012174057)
+[21:49:20] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 2ba6d5d3-733c-41c0-81a1-f33dec55b9aa, mapped to Villager['Fisherman'/139, uuid='2ba6d5d3-733c-41c0-81a1-f33dec55b9aa', l='ServerLevel[world]', x=-1368.30, y=77.36, z=-369.50, cpos=[-86, -24], tl=0, v=true], can't add Villager['Fisherman'/165, uuid='2ba6d5d3-733c-41c0-81a1-f33dec55b9aa', l='ServerLevel[world]', x=-1364.27, y=79.00, z=-361.66, cpos=[-86, -23], tl=0, v=false]
+[21:49:20] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 0cc5369a-2036-4b42-8680-ad8e9f81350a, mapped to GlowSquid['Glow Squid'/173, uuid='0cc5369a-2036-4b42-8680-ad8e9f81350a', l='ServerLevel[world]', x=-1073.40, y=9.11, z=-448.60, cpos=[-68, -29], tl=0, v=true], can't add GlowSquid['Glow Squid'/184, uuid='0cc5369a-2036-4b42-8680-ad8e9f81350a', l='ServerLevel[world]', x=-1076.04, y=6.71, z=-439.91, cpos=[-68, -28], tl=0, v=false]
+[21:49:20] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 2ba6d5d3-733c-41c0-81a1-f33dec55b9aa, mapped to Villager['Fisherman'/139, uuid='2ba6d5d3-733c-41c0-81a1-f33dec55b9aa', l='ServerLevel[world]', x=-1368.30, y=77.36, z=-369.50, cpos=[-86, -24], tl=0, v=true], can't add Villager['Fisherman'/241, uuid='2ba6d5d3-733c-41c0-81a1-f33dec55b9aa', l='ServerLevel[world]', x=-1369.36, y=84.00, z=-344.61, cpos=[-86, -22], tl=0, v=false]
+[21:49:20] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: a7fc4437-f859-445a-9f6b-4f692acd59c0, mapped to Villager['Fisherman'/164, uuid='a7fc4437-f859-445a-9f6b-4f692acd59c0', l='ServerLevel[world]', x=-1362.50, y=79.00, z=-361.45, cpos=[-86, -23], tl=0, v=true], can't add Villager['Fisherman'/242, uuid='a7fc4437-f859-445a-9f6b-4f692acd59c0', l='ServerLevel[world]', x=-1375.18, y=85.00, z=-343.50, cpos=[-86, -22], tl=0, v=false]
+[21:49:21] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 9fae799f-58ce-4a06-8474-d2214bdae9b7, mapped to Bat['Bat'/211, uuid='9fae799f-58ce-4a06-8474-d2214bdae9b7', l='ServerLevel[world]', x=-1466.29, y=59.52, z=-373.25, cpos=[-92, -24], tl=0, v=true], can't add Bat['Bat'/284, uuid='9fae799f-58ce-4a06-8474-d2214bdae9b7', l='ServerLevel[world]', x=-1473.67, y=59.00, z=-371.25, cpos=[-93, -24], tl=0, v=false]
+[21:49:40] [Server thread/INFO]: Villager Villager['Villager'/51, uuid='2d84df0e-327c-43a9-aeaf-103c4d8a8af8', l='ServerLevel[world]', x=-1432.70, y=62.60, z=-442.45, cpos=[-90, -28], tl=423, v=true] died, message: 'Villager was impaled by Drowned'
+[21:55:48] [Server thread/INFO]: [Not Secure] [Server] XD
