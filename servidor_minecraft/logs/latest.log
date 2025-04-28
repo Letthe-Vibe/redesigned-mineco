@@ -151,3 +151,8 @@
 [20:12:02] [User Authenticator #8/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
 [20:12:02] [Server thread/INFO]: monedas joined the game
 [20:12:02] [Server thread/INFO]: monedas[/127.195.185.249:56879] logged in with entity id 23362 at ([world]-1220.4023300395752, 92.30646617501208, -303.304143561434)
+[20:20:39] [Server thread/INFO]: monedas lost connection: Timed out
+[20:20:39] [Server thread/INFO]: monedas left the game
+[20:21:13] [User Authenticator #9/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
+[20:21:15] [Server thread/INFO]: monedas joined the game
+[20:21:15] [Server thread/INFO]: monedas[/127.195.185.249:41021] logged in with entity id 26349 at ([world]-1081.9868967764992, 8.0, -458.72523177238105)
