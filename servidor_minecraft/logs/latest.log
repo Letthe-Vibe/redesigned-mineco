@@ -130,3 +130,77 @@ sat xd<--[HERE]
 [22:56:57] [User Authenticator #4/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
 [22:56:58] [Server thread/INFO]: monedas joined the game
 [22:56:58] [Server thread/INFO]: monedas[/127.195.185.249:42193] logged in with entity id 16881 at ([world]-1178.9953115302833, 86.0, -454.98712749586593)
+[23:01:20] [Server thread/INFO]: KedZoka lost connection: Disconnected
+[23:01:20] [Server thread/INFO]: KedZoka left the game
+[23:01:25] [User Authenticator #5/INFO]: UUID of player KedZoka is af334b6e-99af-345f-bdef-5e86f82e3ded
+[23:01:26] [Server thread/INFO]: KedZoka joined the game
+[23:01:26] [Server thread/INFO]: KedZoka[/127.212.225.52:55551] logged in with entity id 18043 at ([world_nether]-124.69999998807907, 66.875, -271.30000001192093)
+[23:01:38] [Server thread/INFO]: KedZoka was shot by Skeleton
+[23:05:13] [Server thread/INFO]: monedas was slain by Zombie
+[23:05:31] [User Authenticator #6/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
+[23:05:31] [Server thread/INFO]: monedas lost connection: You logged in from another location
+[23:05:31] [Server thread/INFO]: monedas left the game
+[23:05:32] [Server thread/INFO]: monedas joined the game
+[23:05:32] [Server thread/INFO]: monedas[/127.195.185.249:47883] logged in with entity id 19429 at ([world]-1179.7254276160213, 84.0, -451.30000001192093)
+[23:06:56] [Server thread/INFO]: monedas lost connection: Disconnected
+[23:06:57] [Server thread/INFO]: monedas left the game
+[23:07:02] [Server thread/INFO]: monedas (/127.195.185.249:54679) lost connection: Disconnected
+[23:07:02] [User Authenticator #7/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
+[23:07:06] [Server thread/INFO]: KedZoka lost connection: Disconnected
+[23:07:06] [Server thread/INFO]: KedZoka left the game
+[23:07:09] [User Authenticator #7/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
+[23:07:09] [Server thread/INFO]: monedas joined the game
+[23:07:09] [Server thread/INFO]: monedas[/127.195.185.249:35139] logged in with entity id 20499 at ([world]-1088.7414917148824, 8.0, -452.98793399483327)
+[23:07:12] [User Authenticator #7/INFO]: UUID of player KedZoka is af334b6e-99af-345f-bdef-5e86f82e3ded
+[23:07:13] [Server thread/INFO]: KedZoka joined the game
+[23:07:13] [Server thread/INFO]: KedZoka[/127.212.225.52:48933] logged in with entity id 20562 at ([world]-1177.7232751320348, 69.0, -824.531316942809)
+[23:08:09] [Server thread/INFO]: monedas lost connection: Timed out
+[23:08:09] [Server thread/INFO]: monedas left the game
+[23:08:16] [User Authenticator #8/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
+[23:08:17] [Server thread/INFO]: monedas joined the game
+[23:08:17] [Server thread/INFO]: monedas[/127.195.185.249:55961] logged in with entity id 21355 at ([world]-1158.1086510483926, 68.8447679954834, -451.91316310612126)
+[23:08:45] [Server thread/INFO]: monedas lost connection: Disconnected
+[23:08:45] [Server thread/INFO]: monedas left the game
+[23:09:51] [Server thread/INFO]: KedZoka lost connection: Disconnected
+[23:09:51] [Server thread/INFO]: KedZoka left the game
+[23:10:00] [Server thread/INFO]: Stopping the server
+[23:10:00] [Server thread/INFO]: Stopping server
+[23:10:00] [Server thread/INFO]: [CompassPlayerLocalizer_Alpha] Disabling CompassPlayerLocalizer_Alpha v0.1
+[23:10:00] [Server thread/INFO]: [CompassPlayerLocalizer_Alpha] Inhabilitando Plugin CompassPlayerLocalizer
+[23:10:00] [Server thread/INFO]: [TabTPS] Disabling TabTPS v1.3.26
+[23:10:00] [Server thread/INFO]: [Graves] Disabling Graves v4.9.7
+[23:10:00] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.2
+[23:10:00] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.3.1
+[23:10:00] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.1
+[23:10:00] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[23:10:00] [Server thread/INFO]: Saving players
+[23:10:00] [Server thread/INFO]: Saving worlds
+[23:10:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:10:00] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[23:10:00] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[23:10:00] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[23:10:04] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 7 entity chunks, 0 poi chunks in world 'world' in 3.80s
+[23:10:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[23:10:04] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[23:10:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[23:10:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[23:10:04] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[23:10:04] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[23:10:04] [Server thread/INFO]: [ChunkHolderManager] Saved 19 block chunks, 94 entity chunks, 0 poi chunks in world 'world_nether' in 0.05s
+[23:10:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[23:10:04] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[23:10:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[23:10:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[23:10:04] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[23:10:04] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[23:10:04] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[23:10:04] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[23:10:04] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[23:10:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:10:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:10:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:10:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:10:04] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[23:10:04] [Server thread/INFO]: All I/O tasks to complete
+[23:10:04] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[23:10:04] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
