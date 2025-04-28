@@ -117,3 +117,16 @@
 [19:51:38] [User Authenticator #3/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
 [19:51:40] [Server thread/INFO]: monedas joined the game
 [19:51:40] [Server thread/INFO]: monedas[/127.195.185.249:39673] logged in with entity id 15931 at ([world]-1095.7658448317268, 5.0, -458.7782335375908)
+[19:53:04] [Server thread/INFO]: Villager Villager['Villager'/53, uuid='919a1012-84c8-40c7-9b48-f04f824e983d', l='ServerLevel[world]', x=-1058.43, y=62.56, z=-470.23, cpos=[-67, -30], tl=94960, v=true] died, message: 'Villager was slain by Drowned'
+[19:53:21] [Server thread/INFO]: Villager Villager['Cartographer'/84, uuid='0def1ba9-69b9-400f-ba2b-4e30490dccc2', l='ServerLevel[world]', x=-1091.30, y=62.94, z=-448.50, cpos=[-69, -29], tl=94237, v=true] died, message: 'Cartographer was slain by Zombie'
+[19:53:42] [Server thread/INFO]: KedZoka fell from a high place
+[19:54:14] [Server thread/INFO]: monedas lost connection: Disconnected
+[19:54:14] [Server thread/INFO]: monedas left the game
+[19:54:23] [User Authenticator #4/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
+[19:54:24] [Server thread/INFO]: monedas joined the game
+[19:54:24] [Server thread/INFO]: monedas[/127.195.185.249:41851] logged in with entity id 16538 at ([world]-1094.4655279465119, 5.0, -454.8960784739103)
+[19:58:56] [Server thread/INFO]: monedas lost connection: Disconnected
+[19:58:56] [Server thread/INFO]: monedas left the game
+[19:59:04] [User Authenticator #5/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
+[19:59:06] [Server thread/INFO]: monedas joined the game
+[19:59:06] [Server thread/INFO]: monedas[/127.195.185.249:38999] logged in with entity id 18298 at ([world]-1119.5658123563355, 83.0, -468.297573037474)
