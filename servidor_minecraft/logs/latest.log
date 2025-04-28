@@ -96,3 +96,13 @@
 [18:33:43] [Server thread/INFO]: [Not Secure] [Server] waus
 [18:47:50] [Server thread/INFO]: [Not Secure] [Server] xd
 [18:49:00] [Server thread/INFO]: Villager Villager['Villager'/25, uuid='2e0d661a-6bf5-4cd0-bc85-bb2c1673cff5', l='ServerLevel[world]', x=-1064.30, y=63.00, z=-485.51, cpos=[-67, -31], tl=42945, v=true] died, message: 'Villager was slain by Zombie'
+[19:03:04] [Server thread/INFO]: [Not Secure] [Server] xd
+[19:07:54] [User Authenticator #1/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
+[19:07:56] [Server thread/INFO]: monedas joined the game
+[19:07:56] [Server thread/INFO]: monedas[/127.195.185.249:42887] logged in with entity id 8335 at ([world]-1107.0796903139349, -46.0, -530.0522450573835)
+[19:09:05] [Server thread/INFO]: monedas was slain by Zombie
+[19:09:44] [Server thread/INFO]: monedas lost connection: Timed out
+[19:09:44] [Server thread/INFO]: monedas left the game
+[19:09:58] [User Authenticator #2/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
+[19:09:59] [Server thread/INFO]: monedas joined the game
+[19:09:59] [Server thread/INFO]: monedas[/127.195.185.249:37945] logged in with entity id 8787 at ([world]-1217.917394351946, 12.06500318029966, -723.9674198260593)
