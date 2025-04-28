@@ -94,3 +94,5 @@
 [18:23:51] [Server thread/INFO]: [Not Secure] [Server] xd
 [18:27:42] [Server thread/INFO]: [Not Secure] [Server] brutal
 [18:33:43] [Server thread/INFO]: [Not Secure] [Server] waus
+[18:47:50] [Server thread/INFO]: [Not Secure] [Server] xd
+[18:49:00] [Server thread/INFO]: Villager Villager['Villager'/25, uuid='2e0d661a-6bf5-4cd0-bc85-bb2c1673cff5', l='ServerLevel[world]', x=-1064.30, y=63.00, z=-485.51, cpos=[-67, -31], tl=42945, v=true] died, message: 'Villager was slain by Zombie'
