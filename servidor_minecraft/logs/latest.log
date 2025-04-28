@@ -112,3 +112,8 @@
 [19:20:34] [Server thread/INFO]: monedas burned to death
 [19:21:14] [Server thread/INFO]: [Not Secure] [Server] brutal
 [19:25:46] [Server thread/INFO]: [Not Secure] [Server] XD
+[19:51:37] [Server thread/INFO]: monedas lost connection: Timed out
+[19:51:37] [Server thread/INFO]: monedas left the game
+[19:51:38] [User Authenticator #3/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
+[19:51:40] [Server thread/INFO]: monedas joined the game
+[19:51:40] [Server thread/INFO]: monedas[/127.195.185.249:39673] logged in with entity id 15931 at ([world]-1095.7658448317268, 5.0, -458.7782335375908)
