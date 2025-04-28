@@ -100,3 +100,12 @@
 [21:49:21] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 9fae799f-58ce-4a06-8474-d2214bdae9b7, mapped to Bat['Bat'/211, uuid='9fae799f-58ce-4a06-8474-d2214bdae9b7', l='ServerLevel[world]', x=-1466.29, y=59.52, z=-373.25, cpos=[-92, -24], tl=0, v=true], can't add Bat['Bat'/284, uuid='9fae799f-58ce-4a06-8474-d2214bdae9b7', l='ServerLevel[world]', x=-1473.67, y=59.00, z=-371.25, cpos=[-93, -24], tl=0, v=false]
 [21:49:40] [Server thread/INFO]: Villager Villager['Villager'/51, uuid='2d84df0e-327c-43a9-aeaf-103c4d8a8af8', l='ServerLevel[world]', x=-1432.70, y=62.60, z=-442.45, cpos=[-90, -28], tl=423, v=true] died, message: 'Villager was impaled by Drowned'
 [21:55:48] [Server thread/INFO]: [Not Secure] [Server] XD
+[21:59:19] [Server thread/INFO]: monedas lost connection: Disconnected
+[21:59:20] [Server thread/INFO]: monedas left the game
+[21:59:40] [User Authenticator #1/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
+[21:59:41] [Server thread/INFO]: monedas joined the game
+[21:59:41] [Server thread/INFO]: monedas[/127.195.185.249:52271] logged in with entity id 3367 at ([world]-1153.8149317793416, 67.0, -452.6785149508855)
+[22:00:12] [Server thread/INFO]: [Not Secure] [Server] xdd
+[22:02:59] [Server thread/INFO]: Unknown or incomplete command, see below for error
+sat xd<--[HERE]
+[22:03:02] [Server thread/INFO]: [Not Secure] [Server] xd
