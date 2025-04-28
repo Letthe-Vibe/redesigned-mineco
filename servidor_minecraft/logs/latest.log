@@ -161,3 +161,14 @@
 [20:27:29] [Server thread/INFO]: monedas left the game
 [20:27:30] [Server thread/INFO]: monedas joined the game
 [20:27:30] [Server thread/INFO]: monedas[/127.195.185.249:35439] logged in with entity id 27173 at ([world]-1073.5000619398638, 8.0, -460.4695711942362)
+[20:44:21] [Server thread/INFO]: Villager Villager['Villager'/1533, uuid='58390dce-e849-4636-9587-cde0ae81e65f', l='ServerLevel[world]', x=-1120.54, y=66.00, z=-487.72, cpos=[-71, -31], tl=146286, v=true] died, message: 'Villager was slain by Zombie'
+[20:44:32] [User Authenticator #11/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
+[20:44:32] [Server thread/INFO]: monedas lost connection: You logged in from another location
+[20:44:32] [Server thread/INFO]: monedas left the game
+[20:44:33] [Server thread/INFO]: monedas joined the game
+[20:44:33] [Server thread/INFO]: monedas[/127.195.185.249:53313] logged in with entity id 29337 at ([world]-1083.5284515111434, 8.0, -454.66410336482005)
+[20:47:19] [Server thread/INFO]: monedas lost connection: Timed out
+[20:47:19] [Server thread/INFO]: monedas left the game
+[20:47:19] [User Authenticator #12/INFO]: UUID of player monedas is 13274ae4-7994-3dfe-b549-31a48b5ab2bc
+[20:47:20] [Server thread/INFO]: monedas joined the game
+[20:47:20] [Server thread/INFO]: monedas[/127.195.185.249:41815] logged in with entity id 29662 at ([world]-1086.187778950413, 8.0, -453.0532435000791)
